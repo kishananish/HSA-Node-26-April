@@ -1,0 +1,286 @@
+[{
+  "_id": "HJinKHLuzAT",
+  "is_default": false,
+  "card_name": "Test add",
+  "card_number": "123123123122",
+  "expiry_date": "11/21",
+  "cvv": "111",
+  "user_id": "JD0zUMGy46c",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611730366108"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "wklAm3ztX4s",
+  "is_default": false,
+  "card_name": "Test add1",
+  "card_number": "123123123111",
+  "expiry_date": "11/21",
+  "cvv": "111",
+  "user_id": "JD0zUMGy46c",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611730492882"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "CFPPmvBzaHu",
+  "is_default": false,
+  "card_name": "Test add with flag",
+  "card_number": "555555555",
+  "expiry_date": "22/32",
+  "cvv": "321",
+  "user_id": "JD0zUMGy46c",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611731040728"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "yd$bOBxd10a",
+  "is_default": false,
+  "card_name": "New",
+  "card_number": "1324432333",
+  "expiry_date": "11/22",
+  "cvv": "111",
+  "user_id": "JD0zUMGy46c",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611731328623"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "saQqBUfLisQ",
+  "is_default": false,
+  "card_name": "New add card",
+  "card_number": "1324432376",
+  "expiry_date": "11/22",
+  "cvv": "122",
+  "user_id": "JD0zUMGy46c",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611731604648"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "upJXCgFxErt",
+  "is_default": false,
+  "card_name": "New11",
+  "card_number": "1324432399",
+  "expiry_date": "11/22",
+  "cvv": "111",
+  "user_id": "JD0zUMGy46c",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611731718414"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "ri43DAbbAMR",
+  "is_default": false,
+  "card_name": "New22",
+  "card_number": "1324432311",
+  "expiry_date": "11/22",
+  "cvv": "111",
+  "user_id": "JD0zUMGy46c",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611731752825"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "s7FFQLDLRpk",
+  "is_default": false,
+  "card_name": "Bnnnnnnn",
+  "card_number": "8888 8888 82",
+  "expiry_date": "78/88",
+  "cvv": "858",
+  "user_id": "Fz56nv4dPQZo",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611737849627"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "IKOhI@cPFVY",
+  "is_default": false,
+  "card_name": "Aaaa",
+  "card_number": "754753577",
+  "expiry_date": "12/22",
+  "cvv": "422",
+  "user_id": "JD0zUMGy46c",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611739699050"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "TceiG52CMNH",
+  "is_default": false,
+  "card_name": "Testavgd",
+  "card_number": "246436645",
+  "expiry_date": "12/22",
+  "cvv": "322",
+  "user_id": "JD0zUMGy46c",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611739806670"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "whuyOxB3WXx",
+  "is_default": false,
+  "card_name": "Tesr",
+  "card_number": "9999 9999 9999 99",
+  "expiry_date": "12/12",
+  "cvv": "444",
+  "user_id": "Fz56nv4dPQZo",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1611809818585"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "jBPyO0Zs2UU",
+  "is_default": false,
+  "card_name": "addf",
+  "card_number": "5545 5555 5522",
+  "expiry_date": "11/22",
+  "cvv": "125",
+  "user_id": "e$xOZ3FUbTi@",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1612503158312"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "p93j$@TqOlt",
+  "is_default": false,
+  "card_name": "Rytui",
+  "card_number": "4567 8876 567",
+  "expiry_date": "11/23",
+  "cvv": "345",
+  "user_id": "e$xOZ3FUbTi@",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1612884018461"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "ZOBJ@djQaO@",
+  "is_default": false,
+  "card_name": "Test test",
+  "card_number": "3456 7893 232",
+  "expiry_date": "07/25",
+  "cvv": "156",
+  "user_id": "B9A4TE@o@",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1614001465108"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "CUshXL4OuCU",
+  "is_default": true,
+  "card_name": "Absc test",
+  "card_number": "3456 7857 333",
+  "expiry_date": "10/22",
+  "cvv": "142",
+  "user_id": "B9A4TE@o@",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1614002048536"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1614002902709"
+    }
+  },
+  "__v": 0
+}]

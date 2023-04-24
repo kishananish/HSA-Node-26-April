@@ -1,0 +1,42 @@
+doctype html
+html
+    head
+        meta(charset='utf-8')
+        meta(http-equiv='X-UA-Compatible', content='IE=edge')
+        meta(name='description', content='Some description')
+        meta(name='viewport', content='width=device-width, initial-scale=1')
+        link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+        link(rel='stylesheet', href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css")
+        style(type="text/css").
+            .card {
+                top: 42px;
+            }
+            .card-img-top {
+                height: 250px;
+                text-align: center;
+                padding-top: 30px;
+                background-image: linear-gradient(to bottom, #3d3e42, #424448, #47494f, #4b4f55, #50555c);
+            }
+            .fa {
+                font-size: 60px;
+                color: white;
+            }
+            h4{
+                color: white;
+            }
+            h5{
+                color: white;
+            }
+            .back{
+                background: linear-gradient(to right bottom, #00915c, #008483, #0071a0, #0059a3, #473987);
+                min-height: 680px;
+            }
+    body
+        div.back
+            div.card(style="width: 18rem; margin: 0 auto;")
+                div.card-img-top
+                    i.fa.fa-check-circle(aria-hidden="true")
+                    h4 Successful
+                    h4 Transaction!
+                    
+            

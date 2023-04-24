@@ -1,0 +1,7 @@
+node_modules/
+log/
+#package-lock.json
+.vscode
+coverage
+.nyc_output
+.env.heroku

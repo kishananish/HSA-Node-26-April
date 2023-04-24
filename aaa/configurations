@@ -1,0 +1,16 @@
+[{
+  "_id": "irLV0TFyJ",
+  "range": 20000,
+  "credits": 400,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1567661506147"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1589585765999"
+    }
+  },
+  "__v": 0
+}]

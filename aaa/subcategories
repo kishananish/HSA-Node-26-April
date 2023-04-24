@@ -1,0 +1,433 @@
+[{
+  "_id": "mM91gY8JIbA",
+  "name": "Lighting",
+  "ar_name": "الإنارة",
+  "category_id": "MtR5z9XbR",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198418072"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198418072"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "iBia1Y88vEP",
+  "name": "Switches & Wall Outlets",
+  "ar_name": "مفاتيح إنارة و مقابس حائط",
+  "category_id": "MtR5z9XbR",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198539181"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198539181"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "2atJYJFbQzz",
+  "name": "Distribution Board",
+  "ar_name": "لوحة التوزيع",
+  "category_id": "MtR5z9XbR",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198571938"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198571938"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "QO8mgPO3i@@",
+  "name": "Central AC",
+  "ar_name": "مكييف مركزي",
+  "category_id": "CiOMpWljd",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198628875"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198628875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "TW7LKxwmGrr",
+  "name": "Split AC",
+  "ar_name": "مكييف سبليت",
+  "category_id": "CiOMpWljd",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198650699"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198650699"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "KY9QuHqDfSj",
+  "name": "Window AC",
+  "ar_name": "مكييف شباك",
+  "category_id": "CiOMpWljd",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198669804"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198669804"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "l1wLsr5ERtD",
+  "name": "Concealed AC",
+  "ar_name": "مكييف مخفي",
+  "category_id": "CiOMpWljd",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198744448"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198744448"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "vWI5229OO2a",
+  "name": "Sink",
+  "ar_name": "حوض",
+  "category_id": "SJdkDafOuQ",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198789880"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198789880"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "OCP4yrvwvWB",
+  "name": "Toilet",
+  "ar_name": "مرحاض",
+  "category_id": "SJdkDafOuQ",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198859979"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198859979"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "yjelaV$kg@P",
+  "name": "Shower/Bathtub",
+  "ar_name": "الدش و حوض الأستحمام",
+  "category_id": "SJdkDafOuQ",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198916632"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198916632"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "4zdLgHXL6z9",
+  "name": "Pipe",
+  "ar_name": "مواسير مياه",
+  "category_id": "SJdkDafOuQ",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198952164"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1615008541668"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "m6Dq761feFK",
+  "name": "Water Tanks",
+  "ar_name": "خزانات المياه",
+  "category_id": "SJdkDafOuQ",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198970221"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198970221"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "8k0wJoytgC7",
+  "name": "Water Heater",
+  "ar_name": " سخان المياه",
+  "category_id": "SJdkDafOuQ",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613198999678"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613198999678"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "O6oZ6C988b7",
+  "name": "Water Filter",
+  "ar_name": "مصفي مياه",
+  "category_id": "SJdkDafOuQ",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199040200"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199040200"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "s5DlsUq9O@P",
+  "name": "Water Pumps",
+  "ar_name": "مضخات المياه",
+  "category_id": "SJdkDafOuQ",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199079957"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199079957"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "cyKAKq2ha4z",
+  "name": "Drainage",
+  "ar_name": "الصرف",
+  "category_id": "SJdkDafOuQ",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199112816"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199112816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "72uvlJLS85H",
+  "name": "Sectional Door",
+  "ar_name": "باب أمريكي",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199336094"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199336094"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "fxyO3BWlNBy",
+  "name": "Roller Door",
+  "ar_name": "باب رول",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199354787"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199354787"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "yC@XMp2A7l@",
+  "name": "Slide Door",
+  "ar_name": "باب سحاب",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199377989"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199377989"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "x92$d@hJOeI",
+  "name": "Awning",
+  "ar_name": "مظلة",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199406721"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199406721"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "L7RWeKyYPK$",
+  "name": "Swing Door",
+  "ar_name": "باب سوينج",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199502907"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199502907"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "jV@@0iGxEqS",
+  "name": "Gate Barrier",
+  "ar_name": "حاجز - باريير",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199570117"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199570117"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "E61MXoGcKpG",
+  "name": "Road Blocker",
+  "ar_name": "مصدة",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199669672"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199669672"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "j2J8T1$URlr",
+  "name": "Dock Leveler",
+  "ar_name": "منصة التسطيح",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199702160"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199702160"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "p6JMKLeazJe",
+  "name": "Bollards",
+  "ar_name": "حواجز عامودية",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613199947580"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613199947580"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "KtnORDGOTFv",
+  "name": "Industrial Door",
+  "ar_name": "باب صناعي",
+  "category_id": "T0xjjB4JK",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1613200033263"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1613200033263"
+    }
+  },
+  "__v": 0
+},{
+  "_id": "cPx6k0$zxcA",
+  "name": "test",
+  "ar_name": "test",
+  "category_id": "MtR5z9XbR",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1615010008500"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1615010008500"
+    }
+  },
+  "__v": 0
+}]

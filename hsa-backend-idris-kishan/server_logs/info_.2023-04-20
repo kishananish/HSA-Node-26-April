@@ -1,0 +1,11 @@
+{"level":"info","message":{"mess":"Uploaded file data info"}}
+{"level":"info","message":{"mess":[{"Bucket":"hsa-bucket-kishan","ETag":"\"1dc6ba0562609f26e6ce725961600da2\"","Key":"files/7492d29e-0f2a-4fa2-ae1b-8d25cd373416-car-service.jpeg","Location":"https://hsa-bucket-kishan.s3.amazonaws.com/files/7492d29e-0f2a-4fa2-ae1b-8d25cd373416-car-service.jpeg","ServerSideEncryption":"AES256","key":"files/7492d29e-0f2a-4fa2-ae1b-8d25cd373416-car-service.jpeg"}]}}
+{"level":"info","message":{"mess":"Uploaded file data info"}}
+{"level":"info","message":{"mess":"Uploaded file data debug"}}
+{"level":"info","message":{"mess":"Uploaded file data debug"}}
+{"level":"info","message":{"mess":"Error in Uploaded file data"}}
+{"level":"error","message":{"mess":{}}}
+{"level":"info","message":{"mess":"Error in Uploaded file data"}}
+{"level":"info","message":{"mess":"Error in Uploaded file data"}}
+{"level":"error","message":{"mess":{}}}
+{"level":"info","message":{"mess":"Error in Uploaded file data"}}

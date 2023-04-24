@@ -1,0 +1,189 @@
+{
+    "status": "success",
+    "message": "",
+    "data": {
+        "role": [
+            {
+                "active": true,
+                "isDeleted": false,
+                "_id": "IUZf$DFnVA",
+                "name": "admin",
+                "access_level": [
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage Customers",
+                        "_id": "VxoyeXQplN",
+                        "link": "/customer-manage",
+                        "sequence": 1
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage Users",
+                        "_id": "wJn9RxRX9R",
+                        "link": "/service-provider-manage",
+                        "sequence": 2
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage Service Request",
+                        "_id": "JPMW38N8qT",
+                        "link": "/service-request-manage",
+                        "sequence": 3
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage Category",
+                        "_id": "tH@ubtYoQO",
+                        "link": "/category-manage",
+                        "sequence": 4
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage Sub-Category",
+                        "_id": "5BGYesme7D",
+                        "link": "/sub-category-manage",
+                        "sequence": 5
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage Material",
+                        "_id": "VycLkst8u0",
+                        "link": "/material-manage",
+                        "sequence": 6
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage FAQ",
+                        "_id": "VWBJiwzPwM",
+                        "link": "/faq-manage",
+                        "sequence": 7
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage Promo Code",
+                        "_id": "$cBpseznDG",
+                        "link": "/promo-code-manage",
+                        "sequence": 8
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage Query / Suggestion",
+                        "_id": "f$7kbyyKgf",
+                        "link": "/query-manage",
+                        "sequence": 9
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Notifications",
+                        "_id": "8lgCLb0oPW",
+                        "link": "/notifications",
+                        "sequence": 10
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Manage Roles",
+                        "_id": "HaV1Rut9$j",
+                        "link": "/role-manage",
+                        "sequence": 11
+                    },
+                    {
+                        "actions": {
+                            "add": true,
+                            "edit": true,
+                            "view": true,
+                            "delete": true,
+                            "payment": true
+                        },
+                        "name": "Reports",
+                        "_id": "xfvBwEGay",
+                        "link": "",
+                        "sequence": 12
+                    }
+                ],
+                "__v": 22,
+                "created_at": "2018-10-04T14:49:38.354Z",
+                "updated_at": "2018-10-05T08:48:37.224Z"
+            }
+        ],
+        "preferred_language": "en",
+        "active": true,
+        "isDeleted": false,
+        "first_name": "Jitendra",
+        "last_name": "Kumar",
+        "email": "jitendra.kumar@neosofttech.com",
+        "addresses": [],
+        "created_at": "2018-10-04T14:50:46.147Z",
+        "updated_at": "2018-10-10T03:24:02.824Z",
+        "resetPasswordExpires": "2018-10-10T04:24:02.816Z",
+        "resetPasswordToken": "2ad659152bb69c86d92cfafea1fbbf462a603a6a",
+        "userId": "Y6gLEeG1L",
+        "profile_pic_url": "",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJob21lX3NlcnZpY2UiLCJzdWIiOiJZNmdMRWVHMUwiLCJpYXQiOjE1NDA1MzM2MzgsImV4cCI6MTYyNjkzMzY2OH0.IlGkhoRRF508BWLvQNC4kjPuKndLYlp6wjBBLD0vn8U"
+    }
+}

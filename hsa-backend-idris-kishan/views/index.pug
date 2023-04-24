@@ -1,0 +1,242 @@
+
+html
+    head
+        meta(charset='utf-8')
+        meta(http-equiv='X-UA-Compatible', content='IE=edge')
+        meta(name='description', content='Some description')
+        meta(name='viewport', content='width=device-width, initial-scale=1')
+        script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js')
+        script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js')
+        script(src='https://nosir.github.io/cleave.js/dist/cleave.min.js')
+        script(src='https://nosir.github.io/cleave.js/dist/cleave-phone.i18n.js')
+        script(src="https://cdn.jsdelivr.net/npm/sweetalert2@8")
+        link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css')
+        link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+        //- script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js')
+    script(src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js')
+
+    body
+       div.container
+        div.row(style="padding-top:100px")
+            div.col-xs-12.col-md-4.col-md-offset-4
+                div.panel.panel-default
+                    div.panel-heading
+                        div.row
+                            h3.text-center Payment Details
+                    div.panel-body(style="padding:0px 15px 15px 15px")
+                        form(name="form" method="POST" id="tokenForm" action="https://sbcheckout.PayFort.com/FortAPI/paymentPage" style="text-align: center")  
+                            input(type="hidden" id="service_command" name="service_command" value="TOKENIZATION")
+                            input(type="hidden" id="access_code" name="access_code" value="CO9E85Fj3Vx9qHteNHT4")
+                            input(type="hidden" id="merchant_identifier" name="merchant_identifier" value="KtIggBZD")
+                            input(type="hidden" id="language" name="language" value="en")
+                            input(type="hidden" id="signature" name="signature" value="")
+                            input(type="hidden" id="merchant_reference" name="merchant_reference" value=serviceId)
+                            div
+                                div.col-xs-12(style="padding-top:10px")
+                                    div.form-group  
+                                        label(for="card_number") CARD NUMBER                                   
+                                        div.input-group
+                                            input#card_number.form-control(type='text' placeholder='Valid Card Number' name='card_number' value="")
+                                            span.input-group-addon
+                                                span.fa.fa-credit-card
+
+                                div.col-xs-12
+                                    div.form-group  
+                                        label(for="card_holder_name") CARD HOLDER NAME
+                                        input#card_number.form-control(type='text' placeholder='Valid Card Holder Name' name='card_holder_name' value="" onkeypress="return isText(event)")
+ 
+                                div
+                                    div.col-xs-7.col-md-7
+                                        div.form-group
+                                            label(for="expiry_date") EXPIRATION DATE
+                                            input#expiry_date.form-control(type="text", name="expiry_date", placeholder="MMYY")
+                                    div.col-xs-5.col-md-5.pull-right
+                                        div.form-group
+                                            label(for="card_security_code") CV CODE
+                                            input#card_security_code.form-control(type="text" name="card_security_code",
+                                                placeholder="CVV"  onkeypress="return isNumber(event)") 
+
+                                div.panel-footer
+                                    div.row
+                                        
+                                            input#paymentButton.btn.btn-success.btn-md.btn-block.col-md-offset-6(type="button" value="Process payment")
+    
+block content
+    script.
+        var cleaveCreditCard = new Cleave('#card_number', {
+            creditCard: true
+        });
+        var cleave = new Cleave('#expiry_date', {
+            date: true,
+            datePattern: ['m', 'y']
+        });
+
+        function isNumber(evt) {
+            evt = (evt) ? evt : window.event;
+            var charCode = (evt.which) ? evt.which : evt.keyCode;
+            if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+                console.log('false ');
+                Swal.fire({
+                    type: 'error',
+                    title: 'CVV',
+                    text: 'please enter only number!'                    
+                }).then((result) => {
+                    if (result.value) {
+                    $("#card_security_code").val("");
+                    }
+                })
+                return false;
+            }
+            return true;
+        }
+
+        function isText(evt){
+            evt = (evt) ? evt : window.event;
+            var charCode = (evt.which) ? evt.which : evt.keyCode;
+            if (!(charCode >= 65 && charCode <= 120) && (charCode != 32 && charCode != 0)) {
+                Swal.fire({
+                    type: 'error',
+                    title: 'Card Holder Name',
+                    text: 'please enter only Text!',
+                    
+                }).then((result) => {
+                    if (result.value) {
+                    $("#card_holder_name").val("");
+                    }
+                })
+                return false;
+            }
+            return true;
+
+        }
+   
+        $('#paymentButton').click(function (e) {
+            e.preventDefault();
+            var cardNumber = $("#card_number").val().replace(/ +/g, "");
+            var cardHolderName = $('#card_holder_name').val();
+            var tempexpiryDate = $("#expiry_date").val().split("/")
+            var mon = tempexpiryDate[0];
+            var yr= tempexpiryDate[1];
+            var expiryDate = yr+""+mon;
+            var cvvRegex = /^[0-9]{3,4}$/;
+            var cvvCode = $("#card_security_code").val();
+            var validCvv = cvvRegex.exec(cvvCode);
+            if(cardNumber == "" || cardNumber.length<=13){
+                Swal.fire({
+                    type: 'error',
+                    title: 'Card Number',
+                    text: 'please enter a valid card number!',
+                    
+                }).then((result) => {
+                    if (result.value) {
+                    $("#card_number").val("");
+                    }
+                })
+                document.form.card_number.focus();
+            } else if(cardHolderName ==""){
+                Swal.fire({
+                    type: 'error',
+                    title: 'Card Holder Name',
+                    text: 'please enter a valid Card Holder Name  ',
+                    
+                }).then((result) => {
+                    if (result.value) {
+                        $("#card_holder_name").val("");
+                        document.form.card_holder_name.focus();
+                    }
+                })                
+            } else if(expiryDate == ""){
+                Swal.fire({
+                    type: 'error',
+                    title: 'Expiry Date',
+                    text: 'please enter a valid Expiry Date in YY/MM Format  ',
+                    
+                }).then((result) => {
+                    if (result.value) {
+                        $("#expiry_date").val("");
+                        document.form.expiry_date.focus();
+                    }
+                })
+            }else if(cvvCode == ""|| cvvCode != validCvv){
+                Swal.fire({
+                    type: 'error',
+                    title: 'CVV',
+                    text: 'please enter a valid CVV Code ',
+                    
+                }).then((result) => {
+                    if (result.value) {
+                        $("#card_security_code").val("");
+                        document.form.card_security_code.focus();
+                    }
+                })
+            }else{
+                //- alert('refer :'+$("#merchant_reference").val())
+                $.ajax({
+                    type: "POST",
+                    url: `https://obscure-journey-86933.herokuapp.com/api/payment/payfort/token`,   // TODO: Use dynamic base URL
+                    //-  url: `http://localhost:3001/api/payment/payfort/token`, 
+                    data: {
+
+                        merchant_reference: $("#merchant_reference").val(),
+                        language: $("#language").val(),
+
+
+                    },
+                    success: function (result) {
+                        //- console.log("result", result);
+                        //- console.log("result.signature", result.signature);
+                        //- console.log("cardHolderName",cardHolderName);
+                        //- console.log("$(#expiry_date).val(expiryDate) :",$("#expiry_date").val(expiryDate));
+                        //- alert('hi');
+                        //- alert($("#merchant_reference").val());
+                        $("#signature").val(result.signature);
+                        $("#card_number").val(cardNumber);
+                        $("#card_holder_name").val(cardHolderName);
+                        $("#expiry_date").val(expiryDate);
+                        $("#tokenForm").submit();
+                        console.log('form :',$("#tokenForm").serialize());
+                        //- alert('hi');
+                    },
+                    error: function (result) {
+                        alert('error');
+                    }
+
+                });
+            }
+            //- $.ajax({
+            //-     type: "POST",
+            //-     url: `https://hsa-api.herokuapp.com/api/payment/payfort/token`,   // TODO: Use dynamic base URL
+            //-     //-  url: `http://localhost:3001/api/payment/payfort/token`, 
+            //-     data: {
+
+            //-         //- service_command: $("#service_command").val(),
+            //-         merchant_reference: $("#merchant_reference").val(),
+            //-         language: $("#language").val(),
+
+
+            //-     },
+            //-     success: function (result) {
+            //-         console.log("result", result);
+            //-         console.log("result.signature", result.signature);
+            //-         $("#signature").val(result.signature);
+            //-         $("#card_number").val(cardNumber);
+            //-         $("#tokenForm").submit();
+                    
+            //-     },
+            //-     error: function (result) {
+            //-         alert('error');
+            //-     }
+
+            //- });
+            })        
+                  
+
+
+
+
+              
+
+
+       
+
+

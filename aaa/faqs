@@ -1,0 +1,698 @@
+[{
+  "_id": "Q8fpaCuAvM",
+  "title": "Can you tell me exactly how much this plumbing job will cost me?",
+  "description": "In our years of experience, we have found that our customers prefer an accurate price based on their exact plumbing problem. Most phone quotes are subject to change once the service technician sees the job. We don't think that is fair to you. By allowing us to diagnose your plumbing problem in person, you will know exactly what it will take to get the job done.",
+  "ar_description": "في سنوات خبرتنا ، وجدنا أن عملائنا يفضلون سعرًا دقيقًا بناءً على مشكلة السباكة الخاصة بهم. تخضع معظم  عروض الأسعار عبر  الهاتف للتغيير بمجرد أن يعاين فني الصيانة المشكلة. لا نعتقد أن هذا عادل لك. من خلال السماح لنا بتشخيص مشكلة السباكة شخصيًا ، ستعرف بالضبط ما سيستغرقه الأمر لإنجاز المهمة.",
+  "ar_title": "هل يمكنك أن تخبرني بالضبط كم ستكلفني وظيفة السباكة هذه؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1593947554089"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1593947962799"
+    }
+  },
+  "category": "SJdkDafOuQ"
+},{
+  "_id": "sjGa$ZIAVx",
+  "title": "***How much is a plumbing inspection?***",
+  "description": "Hameed Home  Plumbing Services offers a complimentary plumbing check-up to all commercial businesses, schools, hospitals, and other institutions suffering from repetitive drain clogs or plumbing problems. As a part of the no obligation check-up, our plumbing experts perform a complete walk through and examination of your kitchen, bar, restroom and other facilities and systems. Our check-up, combined with a preventive maintenance schedule, will ensure your plumbing and drainage systems are working properly. In fact, our plumbers can install an auto-injection system which can eliminate costly grease-related problems which cause slow and stopped drains.",
+  "ar_description": "تقدم حميد هوم لخدمات السباكة فحص سباكة مجاني لجميع الشركات التجارية والمدارس والمستشفيات وغيرها من المؤسسات التي تعاني من انسداد متكرر أو مشاكل السباكة. كجزء من الفحص بدون التزامات ، يقوم خبراء السباكة لدينا بإجراء جولة كاملة وفحص مطبخك، ومرحاضك والمرافق والأنظمة الأخرى. سيضمن الفحص الذي أجريناه ، إلى جانب جدول الصيانة الوقائية ، أنظمة السباكة والصرف التي تعمل بشكل صحيح. في الواقع ، يمكن أن يقوم السباكون بتثبيت نظام الحقن التلقائي الذي يمكن أن يزيل المشاكل المرتبطة بالشحم المكلفة والتي تسبب بطئ و توقف المصارف.",
+  "ar_title": "كم هو فحص السباكة؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1593947925716"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1593947977051"
+    }
+  },
+  "category": "SJdkDafOuQ"
+},{
+  "_id": "7wDtUUqAQe",
+  "title": "When do you need commercial plumbing services?",
+  "description": "Commercial plumbing services are right for anyone who doesn't have the time or tools to troubleshoot their own plumbing problems. Even a problem as simple as a broken toilet may require commercial plumbing help if you aren't able to fix the problem.\n\nCommercial operations have more complex design and maintenance needs than a residence. A problem in one area could indicate a need for a closer inspection of the entire commercial plumbing system, especially if the trouble is with water flow or leaking pipes or fittings. If it's clear you can't handle your plumbing issue with a quick do-it-yourself solution such as replacing a defective flapper or broken handle, Call Hameed Home Services and we can give you an in-person estimate on the problem and how much it will cost to fix.",
+  "ar_description": "خدمات السباكة التجارية مناسبة لأي شخص ليس لديه الوقت أو الأدوات لاستكشاف مشاكل السباكة الخاصة بهم. حتى مشكلة عادية مثل المرحاض المكسور قد تتطلب مساعدة السباكة التجارية إذا لم تكن قادرًا على حل المشكلة.\n\nالعمليات التجارية لديها احتياجات تصميم وصيانة أكثر تعقيدًا من السكنية. يمكن أن تشير مشكلة في منطقة واحدة إلى الحاجة إلى فحص  لنظام السباكة التجاري بأكمله ، خاصة إذا كانت المشكلة في تدفق المياه أو تسرب الأنابيب أو التركيبات. إذا كان من الواضح أنه لا يمكنك معالجة مشكلة السباكة الخاصة بك بحل سريع بنفسك ، مثل استبدال الزعنفة المعيبة أو المقبض المكسور ،تواصل معنا و يمكننا أن نقدم لك تقديرًا شخصيًا للمشكلة ومقدارها سيكلف الإصلاح.",
+  "ar_title": "متى تحتاج لخدمات السباكة التجارية؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1593949344227"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1593949344227"
+    }
+  },
+  "category": "SJdkDafOuQ"
+},{
+  "_id": "nFwZQzAFsY",
+  "title": "What causes clogged drains?",
+  "description": "There are a number of common issues that create a need for drain cleaning. Soap by itself is not a problem, but combine that with hair and there can be an issue. Another common problem is quilted toilet paper, which doesn't break apart as easily as non-quilted brands. Believe it or not, clumped cat litter can also become a major source of clogging if flushed down the toilet. Symptoms that you need drain cleaning include: drains that are slow to empty after normal use and problems with normal toilet flushing. Experts recommend trying a bio drain cleaning solution as a preventive measure, this works for organic clogs, but if you have foreign objects or hair in your drains you may require additional drain-cleaning service to fix the problem.",
+  "ar_description": "هناك عدد من المشكلات الشائعة التي تخلق حاجة لتنظيف نظام الصرف. الصابون بحد ذاته ليس مشكلة ، لكن اجمعه مع الشعر ويمكن أن يكون هناك مشكلة. مشكلة أخرى شائعة هي ورق التواليت المبطن ، والذي لا ينفصل بسهولة مثل العلامات التجارية غير المبطنة. صدق أو لا تصدق ، يمكن أن تصبح فضلات القطط المتكتلة مصدرًا رئيسيًا للانسداد إذا تم التخلص منها في المرحاض. تشمل الأعراض التي تحتاجها لتنظيف التصريف: المصارف التي يفرغ تفريغها ببطء بعد الاستخدام العادي ، ومشاكل تنظيف المرحاض العادي. يوصي الخبراء بتجربة محلول تنظيف التصريف الحيوي كإجراء وقائي  الصرف؛ هذا يعمل مع السدادات العضوية ، ولكن إذا كان لديك أشياء غريبة أو شعر في المصارف الخاصة بك ، فقد تحتاج إلى خدمة إضافية لتنظيف التصريف لإصلاح المشكلة.",
+  "ar_title": "ما الذي يسبب انسداد المصارف؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1593950059062"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1593950059062"
+    }
+  },
+  "category": "SJdkDafOuQ"
+},{
+  "_id": "9yq5aASrs@",
+  "title": "When do I need drain cleaning services?",
+  "description": "If you are having problems with your drains that cleaning products can't fix, it may be time to call in a professional drain cleaning service. Foreign objects lodged in your toilet, completely blocked drains, and broken pipes are common reasons to bring in professional drain cleaning services. If you experience these symptoms after a storm or natural disaster, our professionals can diagnose serious issues such as major damage to the main drain pipe or sewage system. Sometimes a video inspection is the only way to see the damage, and fixing problems deep in your system requires specialized equipment. When calling a drain service, be sure to tell them the exact nature of any emergency, including how many areas of the house are affected by leaking water, overflowing toilets, or other problems. Also report the color of the water and any debris you may see; this information may be important when diagnosing and assigning service priorities to your problem.",
+  "ar_description": "إذا كنت تواجه مشاكل مع المصارف الخاصة بك والتي لا تستطيع منتجات التنظيف إصلاحها ، فقد يكون الوقت قد حان لاستدعاء خدمة تنظيف التصريف المحترفة. الأشياء الغريبة الموجودة في المرحاض ، والمصارف المسدودة تمامًا ، والأنابيب المكسورة هي أسباب شائعة لجلب خدمات تنظيف الصرف المحترفة. إذا واجهت هذه الأعراض بعد العاصفة أو الكارثة الطبيعية ، فيمكن لمتخصصينا تشخيص المشكلات الخطيرة مثل التلف الكبير لأنبوب التصريف الرئيسي أو نظام الصرف الصحي. في بعض الأحيان يكون فحص الفيديو هو الطريقة الوحيدة لمعرفة الضرر ، وإصلاح المشكلات في نظامك يتطلب معدات متخصصة. عند الاتصال بخدمة تصريف المياه ، تأكد من إخبارهم بالطبيعة الدقيقة لأي حالة طوارئ ، بما في ذلك عدد مناطق المنزل التي تتأثر بتسرب المياه أو المراحيض الزائدة أو مشاكل أخرى. اذكر أيضًا لون الماء وأي بقايا قد تراها ؛ قد تكون هذه المعلومات مهمة عند تشخيص وتعيين أولويات الخدمة لمشكلتك.",
+  "ar_title": "متى أحتاج إلى خدمات تنظيف التصريف؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1593950498622"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1593950498622"
+    }
+  },
+  "category": "SJdkDafOuQ"
+},{
+  "_id": "j7Ozab9iSr",
+  "title": "What is FOG and how do I properly handle it?",
+  "description": "If you find yourself constantly battling drainage problems, particularly in your kitchen sink, you may be fighting FOG. Educating yourself can help you prevent FOG from causing major damage to your home as well as the environment.\n\nWhat is FOG?\n“FOG” is an acronym for fats, oils and greases that enter your plumbing system and can cause problems of epic proportions.\n\nWhere does it come from?\nFats, oils and greases are a natural by-product of cooking and food preparation. They are found in many food products including shortening, butter, margarine, dairy products, baked goods, eggs, dressings, sauces, coffee, meats, food scraps, and more. Washing dishes that once held these products and running FOG-ridden items through your garbage disposal can all contribute to FOG buildup.\n\nFOG’s Effects on Plumbing and Sewers\nFOG can clog plumbing pipes and sewer systems similar to the way cholesterol clogs your arteries. Fats, oils and greases are insoluble in water. Dish soaps won’t help. Worse, as FOG cools, it floats on the surface of sewer fluids and solidifies on pipes. As a result, pipes may need to be cleaned more frequently, replaced sooner, or become completely blocked and cause a sewage backup into your home or sewer overflow onto streets. When FOG causes plumbing problems such as these, contact Hameed Home Services for plumbing repair services.\n\nHow to Properly Handle FOG\nYou can help protect both Mother Nature and your home environment by properly disposing of fats, oils and greases, preventing sewage overflow from contaminating waterways and your home.\n\nCaution\nNever pour FOG down the sink – even disposals cannot properly handle fats, oils and greases. Use a sink strainer, disposing of as much food as possible in the trash.\nContain\nSave FOG, such as grease and meat drippings, in containers with lids where they can harden and congeal for recycling or disposal in the garbage. Used glass jars, large yogurt containers, and coffee cans are great for this.\n\nPre-clean\nScrape greasy pans and dishes into the garbage or compost. Wipe them with a paper towel or newspaper before washing.\n\nDispose and recycle\nComposting bins and recycling drop-offs are great places to dispose of FOG. They can be recycled into biofuels or re-used in the form of gardening compost. Check with your city for solid waste disposal programs that accept used cooking oil, such as hazardous waste collection programs.",
+  "ar_description": "إذا وجدت نفسك تكافح باستمرار مشاكل الصرف ، خاصة في حوض المطبخ ، فإنك تعاني من  د.ز.ش يمكن أن يساعدك تثقيف نفسك في منع  د.ز.ش من التسبب في أضرار كبيرة لمنزلك وكذلك البيئة.\n\nما هو  د.ز.ش؟\n هو اختصار للدهون والزيوت والشحوم التي تدخل نظام السباكة الخاص بك ويمكن أن تسبب مشاكل ذات أبعاد ملحمية.\n\nمن أين تأتي ؟\nالدهون والزيوت والشحوم هي نتاج ثانوي طبيعي للطهي وإعداد الطعام. تم العثور عليها في العديد من المنتجات الغذائية بما في ذلك السمن والزبدة والسمن ومنتجات الألبان والمخبوزات والبيض والضمادات والصلصات والقهوة واللحوم وبقايا الطعام والمزيد. يمكن أن يساهم غسل الأطباق التي كانت تحتفظ بهذه المنتجات  من خلال التخلص منها في القمامة في تراكم  د.ز.ش .\n\nتأثيرات د.ز.ش على السباكة والمجاري\nيمكن لـ د.ز.ش أن يسد أنابيب السباكة وأنظمة الصرف الصحي المشابهة لطريقة انسداد الكوليسترول في الشرايين. الدهون والزيوت والشحوم غير قابلة للذوبان في الماء. صابون الأطباق لن يساعد. الأسوأ من ذلك ، عندما يبرد  د.ز.ش ، يطفو على سطح سوائل الصرف الصحي ويتصلب على الأنابيب. نتيجة لذلك ، قد تحتاج إلى تنظيف الأنابيب بشكل متكرر ، أو استبدالها في وقت أقرب ، أو أن تصبح مسدودة تمامًا وتتسبب في رجوع مياه الصرف الصحي إلى منزلك أو تصريف المجاري إلى الشوارع. عندما يتسبب  د.ز.ش في حدوث مشاكل في السباكة مثل هذه ، اتصل بحميد للخدمات المنزلية لحل المشكلة.\n\nكيفية التعامل مع  د.ز.ش بشكل صحيح\nيمكنك المساعدة في حماية كل من الطبيعة وبيتك عن طريق التخلص من الدهون والزيوت والشحوم بشكل صحيح ، ومنع تدفق مياه الصرف الصحي من تلوث المجاري المائية ومنزلك.\n\nتحذير\nلا تقم أبدًا بسكب  د.ز.ش في الحوض - حتى الأحواض لا يمكنها التعامل مع الدهون والزيوت والشحوم بشكل صحيح. استخدم مصفاة بالوعة ، وتخلص من أكبر قدر ممكن من الطعام في سلة المهملات.\nالتخزين الصحيح\nاحفظ  د.ز.ش ، مثل شحم اللحم وتقطير اللحوم ، في حاويات ذات أغطية حيث يمكن أن تتجمد وتتجمد لإعادة تدويرها أو التخلص منها في القمامة. تعتبر الأواني الزجاجية المستخدمة وحاويات الزبادي الكبيرة وعلب القهوة رائعة في هذا المجال.\n\nالتنظيف المسبق\nاكشط المقالي والأطباق الدهنية في القمامة أولاً، امسحهم بمنشفة ورقية أو صحيفة قبل الغسيل.\n\nتخلص منها وأعد تدويرها\nتعتبر صناديق التسميد وسحب إعادة التدوير أماكن رائعة للتخلص من  د.ز.ش. يمكن إعادة تدويرها إلى وقود حيوي أو إعادة استخدامها في شكل سماد الحدائق. تحقق مع مدينتك من برامج التخلص من النفايات الصلبة التي تقبل زيت الطهي المستخدم ، مثل برامج جمع النفايات الخطرة.",
+  "ar_title": "ماذا يعني المصطلح د.ز.ش و كيف أتعامل معه بالشكل الصحيح ؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1593952278872"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1593952278872"
+    }
+  },
+  "category": "SJdkDafOuQ"
+},{
+  "_id": "3MgVEs0g94",
+  "title": "What is the difference between gas and electric water heaters?",
+  "description": "When you think about where your energy bill goes, it is easy to see the obvious energy drains all around us – lights, washer and dryer, kitchen appliances, televisions and computers, and heating and air conditioning. Even your pool pump is eating up energy. What you might have forgotten is the expense of heating up all of the water you and your family use for your daily needs. Tucked into a closet, the garage or the basement, it you hardly give it a thought until it fails. Whether you have an electric water heater or gas water heater, did you know that up to 25% of each or your energy money actually goes to heat that water?\n\nIs It Time To Replace Your Water Heater?\nLike most appliances, advancements in water heater design have resulted in vast improvements over the older, outdated and energy-guzzling models. Today's water heaters have become much more energy efficient. If you are like the typical homeowner, your water heater is 10 to 15 years old – and needs to be replaced. When it comes to the types of water heaters -- electric water vs gas water heater, they are both much more efficient now. Now you can replace that energy drain with a more efficient water heater that will help you save on your utility bill every month.\n\nWhen choosing a new water heater, it's essential to consider the type of energy source or fuel type you will use, including its cost and availability. The fuel your water heating system uses will not only affect your water heater's size and energy efficiency, but also its annual operation costs. The most common choice homeowners face when selecting a new water heater is “electric water heater vs gas water heater”. Whether choosing an electric water heater vs gas water heater, ensure that the water heating system you choose will not only provide enough hot water for your household’s needs, but that it will do so energy efficiently.\n\nElectric Water Heater vs. Gas Water Heater\nHere are the main selling points of each type, to help you make your decision a little easier:\n\nChoose an Electric Water Heater if you:\nAre building a new home or planning a major remodeling project.\nCan pay more up front to trade off on an approximately 50% reduction in water heating bills.\nCan accommodate a condensate drain.\nBest if you plan to replace your current electric water heater, but your existing unit is still working.\nChoose a Gas Water Heater if you:\nAre building a new home or planning a major remodeling project.\nCan pay more up front to reduce water heating bills by approximately 30%.\nOften run out of hot water.\nHave space to accommodate special venting and a condensate drain.\nBest if you plan to replace your current gas water heater, but your existing unit is still working.\nWhole-House Gas Tankless\nAre building a new home or planning a major remodeling project.\nHave limited space.\nOften run out of hot water.\nWant a water heater with a longer lifetime.\nCan pay more up front to reduce water heating bills by about 30%.\nAre able to schedule a regular maintenance check every few years.\nBest if you plan to replace your current gas water heater, but your existing unit is still working.",
+  "ar_description": "عندما تفكر في المكان الذي تذهب إليه فاتورة الطاقة الخاصة بك ، من السهل رؤية مصارف الطاقة الواضحة من حولنا - الأضواء والغسالة والمجفف وأدوات المطبخ والتلفزيونات وأجهزة الكمبيوتر والتدفئة وتكييف الهواء. حتى مضخة حمام السباحة الخاصة بك تستهلك الطاقة. ما كنت قد نسيت هو تكلفة تسخين كل الماء الذي تستخدمه أنت وعائلتك لتلبية احتياجاتك اليومية. عند وضعها في خزانة أو مرآب أو في الطابق السفلي ، فإنك بالكاد تفكر في الأمر حتى تخرب. سواء كان لديك سخان مياه كهربائي أو سخان ماء غاز ، هل تعلم أن ما يصل إلى 25 ٪ من كل فاتورة الطاقة الخاصة بك تذهب بالفعل لتسخين هذا الماء؟\n\nهل حان الوقت لاستبدال سخان المياه الخاص بك؟\nمثل معظم الأجهزة ، أدى التقدم في تصميم سخان المياه إلى تحسينات كبيرة على النماذج القديمة والقديمة والرائعة. أصبحت سخانات المياه اليوم أكثر كفاءة في استخدام الطاقة. إذا كنت مثل مالك المنزل النموذجي ، فإن سخان المياه الخاص بك يتراوح بين 10 إلى 15 عامًا - ويجب استبداله. عندما يتعلق الأمر بأنواع سخانات المياه - المياه الكهربائية مقابل سخان المياه بالغاز ، فإنهما أكثر كفاءة الآن. يمكنك الآن استبدال استنزاف الطاقة بسخان مياه أكثر كفاءة والذي سيساعدك على توفير فاتورة الكهرباء كل شهر.\n\nعند اختيار سخان مياه جديد ، من الضروري مراعاة نوع مصدر الطاقة أو نوع الوقود الذي ستستخدمه ، بما في ذلك تكلفته وتوافره. لن يؤثر الوقود الذي يستخدمه نظام تسخين المياه لديك على حجم سخان المياه وكفاءة الطاقة فحسب ، بل سيؤثر أيضًا على تكاليف التشغيل السنوية. الخيار الأكثر شيوعًا الذي يواجهه أصحاب المنازل عند اختيار سخان مياه جديد هو \"سخان الماء الكهربائي مقابل سخان الماء بالغاز\". سواء اخترت سخان مياه كهربائيًا مقابل سخان مياه غاز ، تأكد من أن نظام تسخين المياه الذي تختاره لن يوفر فقط ما يكفي من الماء الساخن لاحتياجات منزلك ، ولكنه سيوفر الطاقة بكفاءة.\nسخان مياه كهربائي مقابل سخان مياه غاز\nفيما يلي نقاط البيع الرئيسية لكل نوع ، لمساعدتك على جعل قرارك أسهل قليلاً:\n\nاختر سخان مياه كهربائي إذا كنت:\nتقوم ببناء منزل جديد أو تخطط لمشروع إعادة عرض كبير.\nيمكن أن تدفع أكثر مقدما للمقايضة على تخفيض ما يقرب من 50 ٪ في فواتير تسخين المياه.\nيمكن أن تستوعب استنزاف المكثفات.\nالأفضل إذا كنت تخطط لاستبدال سخان المياه الكهربائي الحالي ، ولكن وحدتك الحالية لا تزال تعمل.\nاختر سخان المياه بالغاز إذا كنت:\nتقوم ببناء منزل جديد أو تخطط لمشروع إعادة عرض كبير.\nيمكن أن تدفع أكثر مقدمًا لتقليل فواتير تسخين المياه بنسبة 30٪ تقريبًا.\nغالبًا ما ينفد الماء الساخن.\nلديك مساحة لاستيعاب تهوية خاصة وتصريف المكثفات.\nالأفضل إذا كنت تخطط لاستبدال سخان المياه بالغاز الحالي ، ولكن وحدتك الحالية لا تزال تعمل.\nكله خزان غاز البيت\nتقوم ببناء منزل جديد أو تخطط لمشروع إعادة عرض كبير.\nلديك مساحة محدودة.\nغالبًا ما ينفد الماء الساخن.\nتريد سخان مياه بعمر أطول.\nيمكن أن تدفع أكثر مقدمًا لتقليل فواتير تسخين المياه بنحو 30٪.\nقادرون على جدولة فحص الصيانة الدورية كل بضع سنوات.\nالأفضل إذا كنت تخطط لاستبدال سخان المياه بالغاز الحالي ، ولكن وحدتك الحالية لا تزال تعمل.",
+  "ar_title": "ما الفرق بين سخانات الغاز والكهرباء؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1593952571359"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1593953473199"
+    }
+  },
+  "category": "MtR5z9XbR"
+},{
+  "_id": "Ljsc4ZJAXK",
+  "title": "What are some common water heater problems and how do I handle them?",
+  "description": "Your water heater usually sits out of sight, relatively unnoticed, until you have a problem. If you're like most of us, as long as the heater is delivering hot water on demand, you don't bother to check on it. However, like other mechanical systems in your home, water heaters can have problems.\n\nCommon Water Heater Problems\nMany common water heater problems can be fixed without having to call a service professional. Others are better left to the pros. Below is a list of the most common problems and how you should handle them:\n\nToo little hot water. A water tank that produces too little hot water is one of the many common water heater problems you may encounter. Usually this can be solved by turning up the temperature on the tank's thermostat. Be careful, however, not to turn the temperature up too high, as this can be a scalding hazard.\nNo hot water\nIf you don't get any hot water when you turn on the hot water faucets and your water heater is gas-powered, the most likely problem is a pilot light that has blown out. This can be due to a faulty thermocouple or a faulty pilot control valve. Another likely cause is a heating element (if you have an electric water heater) or the thermocouple (for a gas water heater) that needs to be replaced. Replacing the heating element or thermocouple is a relatively easy job for a plumbing professional. Unless you have such training, you're well-advised to let a pro handle this repair.\nSmelly water.\nSmelly hot water usually means that the water has become infected with bacteria. Generally, you can detect a rotten egg-type smell. You can generally solve this yourself by flushing the tank and filling it with a solution of water and hydrogen peroxide. Allow the solution to sit in the tank for two hours or so and then flush with clear water. If the tank is still smelly, it's best to call a plumbing contractor. If both the hot and cold water coming out of your fixtures is smelly, the cause is more than likely not related to your water heater.\nA noisy water tank.\nIf your water tank is making noise, it could be a sign of one of several problems. The most likely is that your tank has sediment in the bottom of it and that the heating element is literally burning the sediment. If that is the case, you'll need to drain your water tank, a fairly easy procedure and something you should do about once a year as regular maintenance anyway.\n\nThe other situation that might be causing your water tank to make noise is the heating element starting to burn out. Having a service professional replace the heating element should solve the situation.\nLeaking tank.\nUnfortunately, once your tank starts to leak, it's finished and it's time for a new one. Leaks, even small ones, are not something you want to ignore. You certainly don't want a 30 or 60 liters tank draining in your basement or utility room. At the first sign of a leak, contact Hameed Home Service to see about getting a new water heater.\nKnowing when to call a professional and when to attempt a repair yourself can save you money on maintaining your water tank. Just a little knowledge about troubleshooting can make a big difference.",
+  "ar_description": "سخان المياه عادةً بعيدًا عن الأنظار، دون أن يلاحظه أحد نسبيًا ، حتى تواجه مشكلة. إذا كنت مثل معظمنا ، طالما أن السخان يوفر الماء الساخن عند الطلب ، فلا تهتم بالتحقق منه. ومع ذلك ، مثل الأنظمة الميكانيكية الأخرى في منزلك ، يمكن أن تواجه سخانات المياه مشاكل.\n\nالمشاكل الشائعة لسخان المياه\nيمكن إصلاح العديد من المشاكل الشائعة لسخان المياه دون الحاجة إلى الاتصال بأخصائي الخدمة. من الأفضل ترك الآخرين للمحترفين. فيما يلي قائمة بالمشكلات الأكثر شيوعًا وكيفية التعامل معها:\n\nالقليل من الماء الساخن. يعد خزان المياه الذي ينتج القليل جدًا من الماء الساخن واحدًا من العديد من مشاكل سخان المياه الشائعة التي قد تواجهها. عادة يمكن حل ذلك عن طريق رفع درجة الحرارة على ترموستات الخزان. كن حذرًا ، مع ذلك ، حتى لا ترفع درجة الحرارة إلى درجة عالية جدًا ، لأن هذا يمكن أن يتسبب لك بحروق.\nلا الماء الساخن. \nإذا لم تحصل على أي ماء ساخن عند تشغيل حنفيات الماء الساخن وكان سخان المياه يعمل بالغاز ، فإن المشكلة الأكثر ترجيحًا هي شعلة الأحتراق. يمكن أن يكون هذا بسبب وجود خلل في الصمامات الحرارية أو صمام تحكم. سبب آخر محتمل هو عنصر تسخين (إذا كان لديك سخان مياه كهربائي) أو الصمامات الحرارية (لسخان ماء غاز) يحتاج إلى استبدال. يعد استبدال عنصر التسخين أو الصمامات الحرارية مهمة سهلة نسبيًا لأخصائي السباكة. ما لم يكن لديك التدريب الكافي ، ننصحك بالسماح للمحترف بمعالجة هذا الإصلاح.\nماء كريه الرائحة.\nعادةً ما يعني الماء الساخن ذو الرائحة الكريهة أن الماء أصبح مصابًا بالبكتيريا. بشكل عام ، يمكنك اكتشاف رائحة عفنة. يمكنك عمومًا حل هذه المشكلة بنفسك عن طريق شطف الخزان وملئه بمحلول ماء وبيروكسيد الهيدروجين. اترك المحلول في الخزان لمدة ساعتين أو نحو ذلك ثم اغسله بالماء الصافي. إذا كان الخزان لا يزال كريه الرائحة ، فمن الأفضل الاتصال بمقاول السباكة. إذا كانت المياه الساخنة والباردة الخارجة من التركيبات الخاصة بك ذات رائحة كريهة ، فالسبب على الأرجح ليس له علاقة بسخان المياه.\nخزان مياه صاخب.\nإذا كان خزان المياه يصدر ضوضاء ، فقد يكون ذلك علامة على مشكلة من عدة مشاكل. على الأرجح أن الخزان يحتوي على رواسب في قاعه وأن عنصر التسخين يحرق الرواسب حرفياً. إذا كان هذا هو الحال ، فستحتاج إلى تصريف خزان المياه الخاص بك ، و هو إجراء سهل إلى حد ما وشيء يجب عليك القيام به مرة واحدة في السنة كصيانة منتظمة على أي حال.\n\nالموقف الآخر الذي قد يتسبب في ضجيج خزان المياه هو عنصر التسخين الذي بدأ يحترق. يجب الأستعانة بفريق عمل محترف لهذه الخدمة.\nتسريب بخزان المياه \nلسوء الحظ ، بمجرد أن يبدأ خزانك في التسرب ، ينتهي الأمر وحان وقت خزان جديد. التسريبات ، حتى الصغيرة منها ، ليست شيئًا تريد تجاهله. أنت بالتأكيد لا تريد تصريف خزان سعة 30 أو 60 لتراً في القبو أو غرفة المنافع. عند أول علامة على حدوث تسرب ، اتصل بحميد للصيانة المنزلية لمعرفة المزيد حول الحصول على سخان مياه جديد.\nإن معرفة متى تتصل بمتخصص ووقت محاولة الإصلاح بنفسك يمكن أن يوفر لك المال على صيانة خزان المياه. فقط القليل من المعرفة حول استكشاف الأخطاء وإصلاحها يمكن أن تحدث فرقًا كبيرًا.",
+  "ar_title": "ما هي بعض المشاكل الشائعة لسخان المياه وكيف أتعامل معها؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594021347749"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594021347749"
+    }
+  },
+  "category": "MtR5z9XbR"
+},{
+  "_id": "FSX8rI84n3",
+  "title": "When is it time to call an electrician?",
+  "description": "When you are resetting circuit breakers or changing fuses too often. When you turn on your air conditioner and the lights dim in the room. When your lights flicker or go on and off. When you can smell electricity burning. When you have six electronic devices going into one outlet in back of your electronics center. When you have receptacle outlets overburdened by multi-plug strips. When a three-prong plug needs a two-prong adapter. If you have to run extension cords to plug in electrical devices.",
+  "ar_description": "عندما تقوم بإعادة ضبط قواطع التيار أو تغيير فيوزات كثيرًا. عندما تقوم بتشغيل مكيف الهواء الخاص بك والأضواء تخفت في الغرفة. عندما تومض أضواءك و تطفأ. عندما تشم رائحة حرق الكهرباء. عندما يكون لديك ستة أجهزة إلكترونية تدخل في منفذ واحد خلف مركز الإلكترونيات. عندما يكون لديك منافذ وعاء مثقلة بشرائط متعددة المكونات. عندما يحتاج قابس ثلاثي الشقوق إلى محول ذي شقين. إذا كان عليك تشغيل أسلاك التمديد لتوصيل الأجهزة الكهربائية.",
+  "ar_title": "متى حان الوقت لاستدعاء كهربائي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594024258211"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594024258211"
+    }
+  },
+  "category": "MtR5z9XbR"
+},{
+  "_id": "SW$kNeGuc9",
+  "title": "What electrical work should I fix on my own?",
+  "description": "Doing electrical work yourself is dangerous and could result in costly repairs as well as making more problems within your home’s system. How much are you willing to risk to save money?\nThere is a reason why it takes so much training to become an electrician. Do not make a mistake by taking electricity lightly, even the smallest job could be a safety hazard. Why take a chance. Get a professional to do this work. The homeowner can pull his own Electrical permit for work in his single family home, what he does not know is that in case of damage or fire caused by his work, his homeowners insurance will not pay, they will only if the work is done by a licensed Electrical Contractor. You should check with your homeowners Insurance Co., and they should sign a document or something to this effect to acknowledge this when they pull a permit.The most dangerous time is when you tell yourself. This is easy. I can do it myself. Why should i get an electrician? Then, when you don’t remember where all those wires went or your hair is standing straight up, you say to yourself, “Well maybe we better call someone to straighten up this mess.”\nNow it will cost you double what you thought you were going to save in the beginning.",
+  "ar_description": "القيام بالأعمال الكهربائية بنفسك أمر خطير ويمكن أن يؤدي إلى إصلاحات باهظة الثمن بالإضافة إلى إحداث المزيد من المشاكل داخل نظام منزلك. كم أنت مستعد للمخاطرة لتوفير المال؟\nهناك سبب يجعل تدريب كهربائي يتطلب الكثير من التدريب. لا تخطئ عن طريق أخذ الكهرباء بخفة ، حتى أصغر وظيفة يمكن أن تشكل خطرًا على السلامة. لماذا تغتنم الفرصة. احصل على محترف للقيام بهذا العمل.  يمكن لصاحب المنزل أن يسحب تصريحه الكهربائي الخاص للعمل في منزل عائلته ، ما لا يعرفه هو أنه في حالة حدوث ضرر أو حريق ناتج عن عمله ، فإن التأمين لن يتحمل تكلفة الضرر، سوف تفعل ذلك فقط إذا تم العمل من قبل مقاول كهربائي مرخص. يجب عليك التحقق مع شركة التأمين  الخاصة بك ، ويجب عليهم التوقيع على وثيقة أو شيء من هذا القبيل للاعتراف بذلك عند سحب تصريح ، والوقت الأكثر خطورة هو عندما تخبر نفسك. هذا سهل. يمكنني القيام بذلك بنفسي. لماذا يجب أن أحصل على كهربائي؟ ثم ، عندما لا تتذكر أين ذهبت كل هذه الأسلاك أو كان شعرك يقف بشكل مستقيم ، تقول لنفسك ، \"حسنًا ، ربما يمكننا الاتصال بشخص ما لتصويب هذه الفوضى.\"\nالآن سيكلفك ضعف ما كنت تعتقد أنك ستوفره في البداية.",
+  "ar_title": "ما الأعمال الكهربائية التي يمكن أن أحلها بمفردي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594025259752"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594030510007"
+    }
+  },
+  "category": "MtR5z9XbR"
+},{
+  "_id": "MLUGuQfPrO",
+  "title": "Which grade of electrical outlets should I have installed in my home?",
+  "description": "There are three grades of outlet on the market. Homeowner grade, the cheapest, is the most common type of outlet for installation in a builder-grade home. However, they are flimsy and tend to wear out in 5-10 years at the most. When you install or replace electrical outlets, go for commercial grade instead – these cost about 50 percent more than the cheaper kind, but the financial difference is insignificant and they will last 100 years under typical home use conditions. Hospital grade are very expensive, costing ten times the price of homeowner quality, and are really not necessary; they are designed for never-fail use in medical facilities, for example to power breathing machines.",
+  "ar_description": "هناك ثلاث درجات في السوق. درجة مالك المنزل ، الأرخص ، هي النوع الأكثر شيوعًا لمنفذ التثبيت في منزل من فئة البناء. ومع ذلك ، فهي واهية وتميل إلى التلاشي في غضون 5-10 سنوات على الأكثر. عندما تقوم بتثبيت أو استبدال المنافذ الكهربائية ، فانتقل إلى الدرجة التجارية بدلاً من ذلك - فهذه تكلف حوالي 50 بالمائة أكثر من النوع الأرخص ، ولكن الفرق المالي غير مهم وسيستمر 100 عامًا في ظل ظروف الاستخدام المنزلي المعتادة. درجة المستشفى مكلفة للغاية ، وتكلف عشرة أضعاف سعر جودة مالك المنزل ، وهي ليست ضرورية حقًا ؛ وهي مصممة للاستخدام الذي لا يفشل أبدًا في المرافق الطبية ، على سبيل المثال لتشغيل آلات التنفس.",
+  "ar_title": "أي درجة من المنافذ الكهربائية يجب أن أقوم بتثبيتها في منزلي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594025649878"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594040220169"
+    }
+  },
+  "category": "MtR5z9XbR"
+},{
+  "_id": "6cwESCuJlH",
+  "title": "Are there outlets manufactured especially to stand up to outdoor use?",
+  "description": "Yes, you can purchase specially manufactured weather-resistant electrical receptacles. These are subjected to extra stringent requirements and tested for their resistance to factors such as exposure to intense cold or ultra-violet light.",
+  "ar_description": "نعم ، يمكنك شراء أوعية كهربائية مقاومة للعوامل الجوية. هذه تخضع لمتطلبات صارمة إضافية وتم اختبارها لمقاومتها لعوامل مثل التعرض للبرودة الشديدة أو الضوء فوق البنفسجي.",
+  "ar_title": "هل هناك منافذ مصنعة خصيصًا لمواجهة الاستخدام الخارجي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594040672842"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594040672842"
+    }
+  },
+  "category": "T0xjjB4JK"
+},{
+  "_id": "$Dw3FrRu@4",
+  "title": "How do I reset my breakers?",
+  "description": "Turn the breaker completely off and then completely on. Some breakers will look like they are not tripped, but could be in the neutral stage, which still does not allow them to function as if they were completely on. A way to help determine this, is to turn every breaker completely off and then on.",
+  "ar_description": "قم بإيقاف تشغيل القاطع تمامًا ثم تشغيلها بالكامل. ستبدو بعض القواطع وكأنها ليست متعثرة ، ولكن يمكن أن تكون في المرحلة المحايدة ، والتي لا تزال لا تسمح لها بالعمل كما لو كانت تعمل بالكامل. طريقة للمساعدة في تحديد ذلك ، هي إيقاف تشغيل كل القاطع تمامًا ثم تشغيله.",
+  "ar_title": "كيف أقوم بإعادة تعيين قواطع المنزل ؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594041002953"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594041002953"
+    }
+  },
+  "category": "T0xjjB4JK"
+},{
+  "_id": "3nmTAVy1EK",
+  "title": "What is a surge protector and should I get one?",
+  "description": "Surges are created by lightning or from the local power station. Sometimes, a surge of electricity can flood out to the residents from the power station. A surge protector helps to protect your electrical devices from a power surge. Usually, surge protectors are used for electronic devices such as computers and flat screen televisions. If you appreciate your electronic devices and want them to perform efficiently without having to worry about replacing them, you may want to consider protecting your devices with a surge protector.",
+  "ar_description": "يحدث الحمل الزائد عن طريق البرق أو من محطة الطاقة المحلية. في بعض الأحيان ، يمكن أن تتدفق موجة كهرباء إلى السكان من محطة الطاقة. يساعد الواقي على حماية أجهزتك الكهربائية من زيادة الطاقة. عادة ، يتم استخدام واقيات للأجهزة الإلكترونية مثل أجهزة الكمبيوتر وأجهزة التلفزيون ذات الشاشات المسطحة. إذا كنت تقدر أجهزتك الإلكترونية وتريدها أن تعمل بكفاءة دون الحاجة إلى القلق بشأن استبدالها ، فقد ترغب في التفكير في حماية أجهزتك باستخدام واقي من زيادة التيار.",
+  "ar_title": "ما هو واقي التيار الزائد وهل يجب أن أحصل عليه؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594041224820"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594041224820"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "VEDY5wxsrP",
+  "title": "There is a humming noise coming from my panel. What does this mean?",
+  "description": "This could be the result of a defective breaker. Replacement should be immediate as this defective breaker could cause serious harm to electrical components.",
+  "ar_description": "قد يكون هذا نتيجة لقاطع تالف. يجب أن يكون الاستبدال فوريًا لأن هذا القاطع التالف يمكن أن تسبب ضررًا خطيرًا للمكونات الكهربائية.",
+  "ar_title": "هناك ضجيج طنين قادم من لوحتي. ماذا يعني هذا؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594041304731"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594041304731"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "ZZAPO4HNFv",
+  "title": "Why is a breaker in my panel hot to touch?",
+  "description": "This overheating is a serious defect and could cause arcing in the breaker. It should be immediately replaced.",
+  "ar_description": "هذا السخونة المفرطة عيب خطير ويمكن أن يسبب الانقسام في القاطع. يجب استبداله على الفور.",
+  "ar_title": "لماذا القاطع في لوحتي ساخن ؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594041376256"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594041376256"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "@rkyNI9HJp",
+  "title": "How can I tell when an electrical outlet is not safe?",
+  "description": "The plug falls out of the outlet without touching it, or the outlet is not secure and will move easily when touching it. When the outlet is warm or hot to the touch, you need to immediately take care of the issue by unplugging the device and calling us as this type of problem can result in a fire.",
+  "ar_description": "يسقط القابس من المأخذ دون لمسه ، أو أن المخرج غير آمن وسوف يتحرك بسهولة عند لمسه. عندما يكون المنفذ دافئًا أو ساخنًا عند لمسه ، تحتاج إلى الاهتمام بالمشكلة فورًا عن طريق فصل الجهاز والاتصال بنا حيث يمكن أن يؤدي هذا النوع من المشاكل إلى نشوب حريق.",
+  "ar_title": "كيف يمكنني معرفة ما إذا كان مأخذ التيار الكهربائي غير آمن؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594286694550"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594286694550"
+    }
+  },
+  "category": "MtR5z9XbR"
+},{
+  "_id": "85zEjA05G7",
+  "title": "Can I plug a new refrigerator in anywhere?",
+  "description": "We suggest a dedicated circuit for refrigerators. They have an extensive amp draw. They should not be GFCI protected like a lot of receptacles found in kitchens and garages. A dedicated circuit will protect your freezer or fridge from being tripped and destroying anything inside.",
+  "ar_description": "نقترح دائرة مخصصة للثلاجات لأن لديهم أستهلاك أمبير واسع النطاق. لا ينبغي أن تكون محمية من GFCI مثل الكثير من الأوعية الموجودة في المطابخ والمرائب. دائرة مخصصة ستحمي الفريزر أو الثلاجة من التعثر وتدمير أي شيء بالداخل.",
+  "ar_title": "هل يمكنني توصيل ثلاجة جديدة في أي مكان؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594287000652"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594287000652"
+    }
+  },
+  "category": "MtR5z9XbR"
+},{
+  "_id": "pIk1AMV1bD",
+  "title": "What does it mean when my fluorescent lights are flickering or cycling on and off?",
+  "description": "Flickering may indicate impending bulb failure, minor power fluctuation, and/or improperly installed bulbs. Cycling on and off is usually a clear indication of ballast and/or bulb failure. It is recommended when replacing ballast to replace bulbs as well.",
+  "ar_description": "قد يشير الوميض إلى حدوث عطل في المصباح ، وتقلب طفيف في الطاقة ، و / أو المصابيح التي تم تركيبها بشكل غير صحيح. عادة ما يكون الوميض مؤشرًا واضحًا على ثقل الصابورة و / أو فشل المصباح. يوصى عند استبدال الصابورة أستبدال المصابيح أيضًا.",
+  "ar_title": "ماذا يعني عندما تومض أضواء الفلورسنت أو تنطفئ؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594287201162"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594287201162"
+    }
+  },
+  "category": "MtR5z9XbR"
+},{
+  "_id": "hl2xqeM7Yk",
+  "title": "Can I change an existing switch to a dimmer switch?",
+  "description": "Yes. We will match the specific dimmer to the lights in your home. There are different bulbs required for specific dimmers. Such bulbs include incandescent, CFLs and LEDs.",
+  "ar_description": "نعم. سنطابق الديمر مع الأضواء في منزلك. هناك لمبات مختلفة مطلوبة للديمر. تشمل هذه المصابيح المصابيح المتوهجة ومصابيح الفلورسنت ومصابيح LED.",
+  "ar_title": "هل يمكنني تغيير مفتاح موجود إلى مفتاح ديمر؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594287464569"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594287464569"
+    }
+  },
+  "category": "MtR5z9XbR"
+},{
+  "_id": "qhUedoLnFq",
+  "title": "How are the sizing capacities of heating and cooling systems measured?",
+  "description": "The heating and cooling systems are sized according to their tonnage. One (1) ton equals 12,000 BTU/H. Residential systems can range from 1 to 5 tons.",
+  "ar_description": "يقاس حجم أنظمة التدفئة والتبريد حسب حمولتها. طن واحد (1) يساوي 12000 وحدة حرارية بريطانية / ساعة. يمكن أن تتراوح الأنظمة السكنية من 1 إلى 5 أطنان.",
+  "ar_title": "كيف يتم قياس حجم قدرات أنظمة التدفئة والتبريد؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594642291899"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594642291899"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "1l6@VT9Q7n",
+  "title": "What size HVAC system should I have?",
+  "description": "Contrary to popular belief there, is no rule of thumb for sizing a system to a home. Depending upon the construction of your home, one (1) ton of air conditioning can cool anywhere from 300 to 800 square feet of home. The only way to insure the size of the system you purchase will be large enough to cool your home, but not any larger than you need, is to have your home’s individual heating and cooling needs evaluated by a licensed professional.",
+  "ar_description": "خلافا للاعتقاد الشائع، لا توجد قاعدة عامة لتحديد حجم و سعة نظام التكييف للمنازل السكنية. اعتمادًا على بناء منزلك ، يمكن أن يبرد مكييف بسعة واحد (1) طن مكان من 300 إلى 800 قدم مربع من المنزل. الطريقة الوحيدة لضمان أن حجم النظام الذي تشتريه سيكون كبير بما يكفي لتبريد منزلك ، ولكن ليس أكبر مما تحتاجه ، هي تقييم احتياجاتك قبل محترف مرخص.",
+  "ar_title": "ما هو حجم نظام التدفئة والتهوية وتكييف الهواء الذي يجب أن أحصل عليه؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594643831288"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594643831288"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "BZ459vw9gV",
+  "title": "How is the efficiency of heating and cooling equipment measured?",
+  "description": "The S.E.E.R. (seasonal energy efficiency ratio) is the amount of cooling your system will deliver per dollar spent on electricity. For example, a 3-ton unit may have a S.E.E.R. efficiency rating of 13, 14, or 15. The higher the S.E.E.R. the more efficient the system will be. The S.E.E.R. rating of any given unit can range anywhere from 13 to 17.",
+  "ar_description": "The S.E.E.R. نسبة كفاءة الطاقة الموسمية هي مقدار التبريد الذي سيوفره نظامك لكل دولار يتم إنفاقه على الكهرباء. على سبيل المثال ، قد تحتوي الوحدة التي يبلغ وزنها 3 أطنان على تقييم الكفاءة 13 أو 14 أو 15. كلما ارتفعت هذه النسبة كلما كان النظام أكثر كفاءة. يمكن أن يتراوح تصنيف أي وحدة معينة  من 13 إلى 17.\n",
+  "ar_title": "كيف يتم قياس كفاءة معدات التدفئة والتبريد؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594644266606"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594644266606"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "sauK7QKcVo",
+  "title": "How can I increase the efficiency and life of my home’s heating and cooling systems?",
+  "description": "The most important thing you can do is clean and replace your filters frequently. Also, a system heats and cools more evenly when the blower is in the “on” position. The blower provides constant air movement throughout the home, and allows for better filtration. Finally, shades, drapes, shutters, or screens should be installed on windows that are exposed to extreme sunlight.",
+  "ar_description": "أهم شيء يمكنك القيام به هو تنظيف الفلاتر واستبدالها بشكل متكرر. كما أن النظام يسخن ويبرد بشكل متساوٍ عندما تكون المروحة في وضع \"التشغيل\". توفر المروحة حركة هواء ثابتة في جميع أنحاء المنزل ، ويسمح بترشيح أفضل. أخيرًا ، يجب تثبيت الظلال أو الستائر أو الستائر أو الشاشات على النوافذ المعرضة لضوء الشمس الشديد.",
+  "ar_title": "كيف يمكنني زيادة كفاءة وعمر أنظمة التدفئة والتبريد في منزلي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594644571461"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594644571461"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "KNwwKfFB85",
+  "title": "Is a system with more capacity better?",
+  "description": "No. A larger system with more capacity delivers less comfort and costs more to operate. An air conditioner is at its least efficient when first turning on. A system with too much capacity will run in numerous short cycles, turning on and off repeatedly, therefore causing it to be less efficient. Also keep in mind that an air conditioner only removes humidity when it’s running, so a system with shorter run cycles doesn’t remove humidity from the air very well.",
+  "ar_description": "لا ، فالنظام الأكبر بسعة أكبر يوفر راحة أقل ويكلف أكثر للتشغيل. يكون مكيف الهواء أقل فعالية عند تشغيله لأول مرة. سيتم تشغيل نظام بسعة كبيرة جدًا في العديد من الدورات القصيرة ، ويتم تشغيله وإيقاف تشغيله بشكل متكرر ، مما يؤدي إلى أن يكون أقل كفاءة. ضع في اعتبارك أيضًا أن مكيف الهواء لا يزيل الرطوبة إلا عند تشغيله ، لذا فإن النظام ذو دورات التشغيل القصيرة لا يزيل الرطوبة من الهواء جيدًا.\n",
+  "ar_title": "هل النظام بسعة أكبر أفضل؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594645709789"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594645709789"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "0I08sfV0yE",
+  "title": "How long should my system run in a cycle?",
+  "description": "There is no exact answer for how long your system should run during each cycle. The average air conditioner is sized to remove the heat from your home as fast as it comes in, on a 43° day. Therefore, ideally, on a 43° day the system should be able to keep up with the incoming heat, but not gain on it and be able to turn off. The cooler it is below 43°, the more the system will cycle on and off.",
+  "ar_description": "لا توجد إجابة محددة عن المدة التي يجب أن يعمل فيها نظامك خلال كل دورة. تم برمجة مكيف الهواء العادي لإزالة الحرارة من منزلك بأسرع ما يمكن ، في درجة 43.  لذلك ، من الناحية المثالية ، في ]درجة حرارة 43° يجب أن يكون النظام قادرًا على مواكبة الحرارة الواردة ، ولكن لا يكتسبها ويكون قادرًا على إيقاف التشغيل. كلما كان المبرد أقل من 43 درجة ، زاد دوران النظام وإيقافه.\n",
+  "ar_title": "كم من الوقت يجب أن يعمل نظامي في الدورة الواحدة ؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594646178334"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594646178334"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "@TtlEziYdF",
+  "title": "Should I try to keep my system from running too much?",
+  "description": "Every time your system starts up, it will use a lot of electricity and not produce much cooling. Usually a system that is too small to cool the home is more economical to run but delivers less comfort. Even though it runs nonstop, it will usually consume less power than a larger system that cycles on and off. As a rule of thumb, a unit that is either on or off is less expensive than one cycling on and off.",
+  "ar_description": "في كل مرة يبدأ نظامك ، سيستهلك الكثير من الكهرباء ولن ينتج عنه الكثير من التبريد. عادة ما يكون النظام الصغير جدًا لتبريد المنزل أكثر اقتصادياً للتشغيل ولكنه يوفر راحة أقل. على الرغم من أنه يعمل بدون توقف ، إلا أنه عادة ما يستهلك طاقة أقل من النظام الأكبر الذي يتم تشغيله وإيقاف تشغيله. كقاعدة عامة ، فإن الوحدة التي تعمل أو تغلق أقل تكلفة من تشغيل وإيقاف دورة واحدة.\n",
+  "ar_title": "هل يجب أن أحاول منع تشغيل نظامي كثيرًا؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594646287810"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594646287810"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "XVk8M9Dzy6",
+  "title": "What air temperature should my air conditioner produce?",
+  "description": "The air temperature your system produces depends on the temperature of the air going into the system. Generally, the air produced should be 18°-20° below what enters the system. So if the air entering the system is 40°, the air exiting should be about 40°-42°. However, that only works on a system that has been running at least 15 minutes on a warm, dry day with a home that is about 30° inside. On a mild day, with an indoor temperature in the low 30’s, or during humid conditions, the air coming out may only be 15°-17° cooler than what enters.",
+  "ar_description": "تعتمد درجة حرارة الهواء التي ينتجها نظامك على درجة حرارة الهواء الداخل إلى النظام. بشكل عام ، يجب أن يكون الهواء المنتج 18 درجة -20 درجة أقل مما يدخل النظام. لذا إذا كان الهواء الداخل للنظام 40 درجة ، فينبغي أن يكون خروج الهواء حوالي 20 درجة -22 درجة. ومع ذلك ، يطبق هذا فقط على نظام يعمل لمدة 15 دقيقة على الأقل في يوم دافئ وجاف مع منزل بداخله 35 درجة تقريبًا. في يوم معتدل ، مع درجة حرارة داخلية 30 المنخفضة ، أو خلال الظروف الرطبة ، قد يكون الهواء الخارج أكثر برودة بمقدار 15 درجة إلى 17 درجة مما يدخل.\n",
+  "ar_title": "ما هي درجة حرارة الهواء التي يجب أن ينتجها مكيف الهواء الخاص بي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594646677674"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594646677674"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "$9At3X6pUC",
+  "title": "What temperature should I set my thermostat?",
+  "description": "Obviously the time of year becomes a big factor for desired temperature settings. In the summer months the average temperature setting is 20°-25°, in the winter 25°-30° seems to be the most common setting. Remember, when leaving your house, try to avoid drastic temperature changes. Do not set your temperature back more than 5°; this will cause your unit to work harder to achieve the desired temperature setting.",
+  "ar_description": "من الواضح أن المواسم المختلفة من العام تصبح عاملاً كبيرًا لإعدادات درجة الحرارة المطلوبة. في أشهر الصيف ، يكون متوسط ​​درجة الحرارة 25-30 درجة، في فصل الشتاء25-30 درجة درجة يبدو أنه الإعداد الأكثر شيوعًا. تذكر ، عند مغادرة منزلك ، حاول تجنب التغيرات الحادة في درجات الحرارة. لا تعيد درجة حرارتك أكثر من 5 درجات ؛ سيؤدي ذلك إلى عمل وحدتك بشكل أكبر لتحقيق إعداد درجة الحرارة المطلوب.\n",
+  "ar_title": "ما هي درجة الحرارة التي يجب ضبطها على منظم الحرارة؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594714674954"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594714674954"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "IXvqRaGDCN",
+  "title": "What are the advantages of a programmable thermostat?",
+  "description": "Different programmable thermostats offer many different features. However, because they are electronic, they are all more accurate and efficient than thermostats that contain mercury. With programmable thermostats you can control the temperature in your home at different times of day without ever touching your thermostat. Because everything is automatic, you will never forget to change the setting on your own.",
+  "ar_description": "توفر منظمات الحرارة القابلة للبرمجة العديد من الميزات المختلفة. ومع ذلك ، نظرًا لأنها إلكترونية ، فهي أكثر دقة وكفاءة من منظمات الحرارة التي تحتوي على الزئبق. مع منظمات الحرارة القابلة للبرمجة ، يمكنك التحكم في درجة الحرارة في منزلك في أوقات مختلفة من اليوم دون لمس منظم الحرارة الخاص بك. نظرًا لأن كل شيء تلقائي ، فلن تنسى أبدًا تغيير الإعداد بنفسك.\n",
+  "ar_title": "ما هي مزايا منظم الحرارة القابل للبرمجة؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594714792862"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594714792862"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "GJcfLmg7eQ",
+  "title": "How often should I replace my filters?",
+  "description": "For optimum efficiency and filtration, we recommend that you replace your disposable filters at least once a month. If you have washable filters, they should be cleaned once a month.",
+  "ar_description": "للحصول على الكفاءة و الترشيح الأمثل ، نوصي باستبدال المرشحات التي تستخدم لمرة واحدة على الأقل مرة في الشهر. إذا كان لديك مرشحات قابلة للغسل ، فيجب تنظيفها مرة واحدة في الشهر.",
+  "ar_title": "كم مرة يجب أن أستبدل المرشحات الخاصة بي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594714879308"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594714879308"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "ceGObqHMtM",
+  "title": "What maintenance should I do on my air conditioner?",
+  "description": "The most important maintenance you can do is to change your filters regularly. Ground mounted outdoor units need to be kept clear of debris, clutter; weeds or landscaping that can grow too close and reduce the airflow to the unit. Also, keep pets away from the unit because pet urine can cause expensive damage. Use caution with a weed trimmer around the unit to prevent damaging control wiring. Any additional maintenance should only be performed by qualified personnel.",
+  "ar_description": "أهم الصيانة التي يمكنك القيام بها هي تغيير المرشحات بانتظام. يجب الحفاظ على الوحدات الخارجية المركبة على الأرض خالية من الحطام والفوضى ؛ الأعشاب أو المناظر الطبيعية التي يمكن أن تنمو قريبة جدًا وتقليل تدفق الهواء إلى الوحدة. أيضًا ، أبعد الحيوانات الأليفة عن الوحدة لأن بول الحيوانات الأليفة يمكن أن يسبب ضررًا باهظًا. كن حذرًا مع أداة تهذيب الحشائش حول الوحدة لمنع تلف أسلاك التحكم. يجب إجراء أي صيانة إضافية فقط من قبل موظفين مؤهلين.",
+  "ar_title": "ما الصيانة التي يجب أن أقوم بها على مكيف الهواء الخاص بي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594716604896"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594716604896"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "kSA$er9VU9",
+  "title": "How often should I have maintenance done on my air conditioner?",
+  "description": "You should have maintenance done on your air conditioning system twice a year. This not only ensures maximum efficiency, it enables us to foresee any possible problems that may occur in the near future. Our Comfort Assurance Program (CAP) plan is specifically designed to keep your air conditioning system running at its peak efficiency year-round.",
+  "ar_description": "يجب عليك إجراء الصيانة على نظام تكييف الهواء الخاص بك مرتين في السنة. هذا لا يضمن أقصى قدر من الكفاءة فحسب ، بل يمكننا من توقع أي مشاكل محتملة قد تحدث في المستقبل القريب. تم تصميم خطة برنامج ضمان الراحة (CAP) الخاص بنا خصيصًا للحفاظ على نظام تكييف الهواء الخاص بك يعمل في ذروة الكفاءة على مدار العام.",
+  "ar_title": "كم مرة يجب أن أقوم بالصيانة على مكيف الهواء الخاص بي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594716696312"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594716696312"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "fgXFv9r1IR",
+  "title": "How much does a new replacement system cost?",
+  "description": "Due to the many different makes, models and customer needs, price is an issue that can only be solved by doing a thorough evaluation of your home and existing equipment. There is no charge for an in-house replacement proposal.",
+  "ar_description": "نظرًا للعديد من الماركات والموديلات المختلفة واحتياجات العملاء ، فإن السعر يمثل مشكلة لا يمكن حلها إلا من خلال إجراء تقييم شامل لمنزلك ومعداتك الحالية. لا توجد رسوم على اقتراح الاستبدال الداخلي.",
+  "ar_title": "كم يكلف نظام الاستبدال الجديد؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594716769687"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594716769687"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "qh5dFmZHBc",
+  "title": "Are there any air conditioning systems that are safe for the environment?",
+  "description": "Yes. Several manufactures have developed new systems that contain the environmentally friendly R410A, or Puron, refrigerant. .",
+  "ar_description": "نعم. طورت العديد من المصانع أنظمة جديدة تحتوي على المبرد R410A أو Puron الصديق للبيئة.",
+  "ar_title": "هل توجد أنظمة تكييف هواء آمنة للبيئة؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594716828593"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594716828593"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "G$h6zm7qhY",
+  "title": "Do electronic air cleaners really work?",
+  "description": "Yes, they can actually play a big part in your complete home comfort. Some electronic air cleaners can even remove dust particles and pollen as small as .10 micron.",
+  "ar_description": "نعم ، يمكنهم بالفعل لعب دور كبير في راحتك المنزلية. يمكن لبعض منظفات الهواء الإلكترونية حتى إزالة جزيئات الغبار وحبوب اللقاح الصغيرة التي تصل إلى 0.10 ميكرون.",
+  "ar_title": "هل تعمل منظفات الهواء الإلكترونية حقًا؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594719112054"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594719112054"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "1HoVjF$BvE",
+  "title": "Should I close the registers and doors to areas of the home that I do not use on a regular basis?",
+  "description": "No. Closing the registers will decrease the systems’ airflow and efficiency. Every system is designed to cool a certain number of square feet. By closing registers and doors in certain rooms, you disrupt the airflow and cause your air conditioning system to work harder to distribute air to other areas of your home. Your system will work harder, to cool less space, making it cycle more and become less efficient.",
+  "ar_description": "لا. سيؤدي إغلاق الأبواب إلى تقليل تدفق الهواء وكفاءته. تم تصميم كل نظام لتبريد عدد معين من الأقدام المربعة. من خلال إغلاق الأبواب في بعض الغرف ، فإنك تعطل تدفق الهواء وتتسبب في عمل نظام تكييف الهواء بشكل أكبر لتوزيع الهواء على مناطق أخرى من منزلك. سيعمل نظامك بجد أكبر ، لتبريد مساحة أقل ، مما يجعله أكثر دورة وأقل كفاءة.",
+  "ar_title": "هل يجب أن أغلق السجلات والأبواب في مناطق المنزل التي لا أستخدمها بانتظام؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594719281460"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594719281460"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "TBrUWbIjEc",
+  "title": "Why are humidifiers used more in heating than cooling?",
+  "description": "When cool outdoor air enters a home it tends to dry out as it warms up, which increases the static electricity in the home and causes sinus problems. Adding a humidifier will help to add moisture back into the air and limit sinus problems. In the summer, even with outdoor relative humidity hovering around the single digits, the humidity in your home tends to be around 40%. The average comfort range for relative humidity in a home is from 35 to 45%.",
+  "ar_description": "عندما يدخل الهواء البارد في الهواء الطلق إلى المنزل ، فإنه يميل إلى الجفاف عندما يسخن ، مما يزيد من الكهرباء الساكنة في المنزل ويسبب مشاكل الجيوب الأنفية. إضافة مرطب سيساعد على إضافة الرطوبة مرة أخرى إلى الهواء والحد من مشاكل الجيوب الأنفية. في الصيف ، حتى مع وجود الرطوبة النسبية في الهواء الطلق حول الأرقام الفردية ، تميل الرطوبة في منزلك إلى أن تكون حوالي 40٪. يتراوح متوسط ​​ الرطوبة  المريحة لك في المنزل من 35 إلى 45٪.",
+  "ar_title": "لماذا تستخدم المرطبات في التدفئة أكثر من التبريد؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594719481631"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594719481631"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "9zBIUWnJ8@",
+  "title": "Is it normal for my heat pump to deliver warm air (not hot) and operates for long periods of time?",
+  "description": "Yes, this is normal. A heat pump generally produces air that is 26°, which is considered warm, and will heat the house evenly. However, 26° may feel cool to your hand, which is usually closer to 32°.",
+  "ar_description": "نعم ، هذا طبيعي. تنتج المضخات الحرارية بشكل عام هواءًا 26 درجة ، والذي يعتبر دافئًا ، وسيسخن المنزل بالتساوي. ومع ذلك ، قد تشعر 26 درجة بالبرد في يدك ، والتي عادة ما تكون أقرب إلى 32 درجة.\n",
+  "ar_title": "هل من الطبيعي أن تقوم المضخة الحرارية بتوصيل الهواء الدافئ (وليس الساخن) وتعمل لفترات طويلة من الزمن؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594719573196"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594719573196"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "ZvD9ia07qi",
+  "title": "How do I know if my A/C unit is big enough?",
+  "description": "Before purchasing a replacement system you should always make sure your system is sized properly. Our representative will provide a heat load calculation to determine the proper size and make the appropriate recommendation. Remember, bigger is not always better.",
+  "ar_description": "قبل شراء نظام بديل ، يجب عليك دائمًا التأكد من أن حجم النظام مناسب بشكل صحيح. سيقدم ممثلنا حساب الحمل الحراري لتحديد الحجم المناسب وتقديم التوصية المناسبة. تذكر ، الأكبر ليس دائمًا أفضل.",
+  "ar_title": "كيف أعرف ما إذا كانت وحدة التكييف كبيرة بما يكفي؟",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594719632377"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594719632377"
+    }
+  },
+  "category": "CiOMpWljd"
+},{
+  "_id": "7oSSpQ433a2",
+  "title": "a",
+  "description": "a",
+  "ar_description": "a",
+  "ar_title": "a",
+  "category": "CiOMpWljd",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1615019598059"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1615020397492"
+    }
+  }
+}]

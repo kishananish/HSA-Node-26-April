@@ -1,0 +1,40 @@
+<!-- <script src="/socket.io/socket.io.js"></script>
+<script>
+    var socket = io.connect('http://localhost:3001');
+    socket.on('news', function (data) {
+        console.log(data);
+        socket.emit('my other event', { my: 'data' });
+    });
+</script> -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CLIENT VIEW</title>
+</head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Faker/3.1.0/locales/en_US/faker.en_US.js"
+    type="text/javascript"></script>
+<script>
+    var socket = io.connect('https://hsa-api.herokuapp.com/track');
+
+    // var socket = io.connect('http://localhost:3001/track', { query: "service_id=PgdITVvsNJ" });
+    let longitude, latitude;
+    setInterval(() => {
+        longitude = faker.address.longitude();
+        latitude = faker.address.latitude();
+        console.log({ longitude, latitude })
+        socket.emit('gettingPosition', {
+            'coordinates': {
+                longitude, latitude
+                // "longitude": 77.376945,
+                // "latitude": 28.628454
+            }
+        })
+    }, 9000);
+</script>
+
+<body>Client Socket</body>
+
+</html>

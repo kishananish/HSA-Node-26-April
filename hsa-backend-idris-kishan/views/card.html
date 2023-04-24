@@ -1,0 +1,185 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://nosir.github.io/cleave.js/dist/cleave.min.js"></script>
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/dependencyLibs/inputmask.dependencyLib.jquery.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        input {
+            font-family: monospace;
+        }
+
+        label {
+            display: block;
+        }
+
+        div {
+            margin: 0 0 1rem 0;
+        }
+    </style>
+</head>
+
+<body>
+
+
+
+
+    <!-- <input type="hidden" id="token_name" name="token_name" value="" /> -->
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-4 col-md-offset-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <h3 class="text-center">Payment Details</h3>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding:0px 15px 15px 15px">
+                        <form name="form" method="POST" id="tokenForm"
+                            action="https://sbcheckout.PayFort.com/FortAPI/paymentPage" style="text-align: center">
+
+                            <!--  send hidden input  -->
+                            <input type="hidden" id="service_command" name="service_command" value="TOKENIZATION">
+                            <input type="hidden" id="access_code" name="access_code" value="CO9E85Fj3Vx9qHteNHT4">
+                            <input type="hidden" id="merchant_identifier" name="merchant_identifier" value="KtIggBZD">
+
+                            <input type="hidden" id="language" name="language" value="en" />
+                            <input type="hidden" id="signature" name="signature" value="" />
+
+                            <div>
+
+                                <div class="col-xs-12">
+                                    <div class="form-group" style="padding-top:20px">
+                                        <label> SERVICE ID</label>
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" id="merchant_reference"
+                                                name="merchant_reference" placeholder="Service Id " />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12">
+                                    <div class="form-group">
+                                        <label>CARD NUMBER</label>
+                                        <div class="input-group">
+                                            <input type="tel" pattern="\d*" maxlength="19" class="form-control"
+                                                id="card_number" name="card_number" placeholder="Valid Card Number"
+                                                value="4005550000000001" required="required" />
+                                            <span class="input-group-addon"><span
+                                                    class="fa fa-credit-card"></span></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <div class="col-xs-7 col-md-7">
+                                        <div class="form-group">
+                                            <label>
+                                                <span class="hidden-xs">EXPIRATION</span>
+                                                <span class="visible-xs-inline">EXP</span>
+                                                DATE
+                                            </label>
+                                            <input type="tel" class="form-control" id="expiry_date" name="expiry_date"
+                                                value="" placeholder="YY/MM" required/>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-5 col-md-5 pull-right">
+                                        <div class="form-group">
+                                            <label>CV CODE</label>
+                                            <input type="tel" id="card_security_code" name="card_security_code"
+                                                placeholder="CVC" value="123" maxlength="4" class="form-control" />
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel-footer">
+                                    <div class="row">
+                                        <div class="col-xs-6" style="margin-top:10px">
+                                            <input type="button" class="btn btn-warning btn-md btn-block"
+                                                value="Process payment" id="button">
+                                            <!-- <button class="btn btn-warning btn-lg btn-block">Process payment</button> -->
+                                        </div>
+
+                                        <div class="col-xs-6" style="margin-top:10px">
+                                            <input type="button" class="btn btn-danger btn-md btn-block" value="Cancel"
+                                                id="button">
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            
+
+                                <!-- <label>Card no :</label>
+                                <input type="text" class="input-credit-card" id="card_number" name="card_number"
+                                    value="4005550000000001" /><br>
+                                <br /> 
+                                <label>Expiry Date:</label>
+                                <input type="text" id="expiry_date" name="expiry_date" value="2105"
+                                    placeholder="YYMM" /><br />
+                                <br />
+                               
+
+                                <label> Security Code: </label>
+                                <input type="text" id="card_security_code" name="card_security_code"
+                                    value="123" /><br /> <br />
+                                
+                                <input type="button" value="Submit" id="button">
+                                -->
+
+                            </div>
+                    </div>
+                </div> <!-- end main Panel body -->
+            </div>
+        </div>
+    </div>
+
+
+    </form>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+      
+        $("#button").click(function (e) {
+            e.preventDefault();
+            console.log("hi calling");
+
+            $.ajax({
+                type: "POST",
+                url: `https://hsa-api.herokuapp.com/api/payment/payfort/token`,   // TODO: Use dynamic base URL
+                // url: `http://localhost:3001/api/payment/payfort/token`, 
+                data: {
+
+                    service_command: $("#service_command").val(),
+                    merchant_reference: $("#merchant_reference").val(),
+                    language: $("#language").val(),
+
+                },
+                success: function (result) {
+                    console.log("result", result);
+                    console.log("result.signature", result.signature);
+                    $("#signature").val(result.signature);
+                    $("#tokenForm").submit();
+                    alert('ok', result);
+                },
+                error: function (result) {
+                    alert('error');
+                }
+
+            });
+        });
+    </script>
+
+</body>
+
+</html>

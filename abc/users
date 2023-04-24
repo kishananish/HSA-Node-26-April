@@ -1,0 +1,89 @@
+[{
+  "_id": "Y6gLEeG1L",
+  "role": [
+    "IUZf$DFnVA"
+  ],
+  "preferred_language": "en",
+  "active": true,
+  "isDeleted": false,
+  "first_name": "Hameed",
+  "last_name": "S",
+  "email": "hsa1.hameedservice@gmail.com",
+  "password": "$2a$10$A8l6etyO6KMcq8k6hcTu4eUEEyV7GL5TQBOuzK4luru8bYoJa/c0G",
+  "addresses": [
+    {
+      "location": {
+        "coordinates": [
+          73.7578614,
+          18.5934025
+        ],
+        "type": "Point"
+      },
+      "isDefault": false,
+      "type": "home",
+      "address": "Columbia",
+      "city": "Al-Khobar",
+      "zipcode": "6600123",
+      "country": "india",
+      "_id": "g9KxVKRWZ"
+    }
+  ],
+  "created_at": {
+    "$date": "2018-10-04T14:50:46.147Z"
+  },
+  "updated_at": {
+    "$date": "2022-08-04T13:07:14.893Z"
+  },
+  "rating": 5,
+  "area_assigned": "Al-Madina",
+  "country_code": "91",
+  "mobile_no": "8962348292",
+  "profile_pic": "",
+  "device_id": "d9YnPGGieKc:APA91bGej92EhxDUaD8CAqrweEEMgv4e3_0oHBpvULC2OWEe0dR1LivN741ar1Xn0RTumSUTTaQunkPbFauU7PEtPgCXXi33M8XkOhHZT-yVCFwlEQr2of33S96ApbFFqcCdgDNmSnpa",
+  "add_material_flag": true
+},{
+  "_id": "JD0zUMGy46c",
+  "role": [
+    "izMYUl@kFf"
+  ],
+  "preferred_language": "en",
+  "active": true,
+  "isDeleted": false,
+  "rating": 3.1,
+  "add_material_flag": false,
+  "first_name": "ashwini",
+  "last_name": "kadam",
+  "email": "ashwini.kadam@neosoftmail.com",
+  "country_code": "91",
+  "mobile_no": "9970776148",
+  "password": "$2a$10$EIyAP780SmeWBsicmLnHNuktQib33sz27zopPJPz/4bnlvnfbVDAS",
+  "addresses": [
+    {
+      "isDefault": false,
+      "type": "home",
+      "address": "Pune, Maharashtra, India",
+      "city": "Riyadh",
+      "zipcode": "411021",
+      "location": {
+        "coordinates": [
+          18.5204303,
+          73.8567437
+        ],
+        "type": "Point"
+      },
+      "country": "",
+      "_id": "OUFcF0zcyI"
+    }
+  ],
+  "profile_pic": "",
+  "area_assigned": "",
+  "category_id": "CiOMpWljd",
+  "created_at": {
+    "$date": "2021-01-08T07:37:49.271Z"
+  },
+  "updated_at": {
+    "$date": "2021-03-10T07:50:36.513Z"
+  },
+  "old_mobile_no": "9970776148",
+  "device_id": "d2tokHrPJIU:APA91bETHpgLK2krvUU5dEnbZ8Y20s9fd9F0B7aAhNVqgSldF8WEx6nVEtn29nViRzhr5R7jsFyVEQXCM-wRzcXq_mWVLBSHRKPey_gHbok8w3WgMzQT4L7ZxxYoWz-OA-U02lA0C5ul"
+}]

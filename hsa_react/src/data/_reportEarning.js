@@ -1,0 +1,110 @@
+export const reportData = [
+    {
+        _id : 'C001',
+        date_of_joining :'2018-08-02T06:52:25.310Z',
+        first_name : 'Waylon',
+        last_name:'Dalton',
+        location:'USA',
+        payment_type:'Card',
+        payment_received_status:'Yes',
+        total_cost:100,
+        deposit:100,
+        pending:50
+    },
+    {
+        _id : 'C002',
+        date_of_joining :'2018-08-02T06:52:25.310Z',
+        first_name : 'Justin',
+        last_name:'Lang',
+        location:'Dubai',
+        payment_type:'Cash',
+        payment_received_status:'No',
+        total_cost:500,
+        deposit:200,
+        pending:150
+    },
+    {
+        _id : 'C003',
+        date_of_joining :'2018-08-02T06:52:25.310Z',
+        first_name : 'Max',
+        last_name:'Teen',
+        location:'Chiana',
+        payment_type:'Cash',
+        payment_received_status:'Yes',
+        total_cost:600,
+        deposit:100,
+        pending:80
+    },
+    {
+        _id : 'C001',
+        date_of_joining :'2018-08-02T06:52:25.310Z',
+        first_name : 'Waylon',
+        last_name:'Dalton',
+        location:'USA',
+        payment_type:'Card',
+        payment_received_status:'Yes',
+        total_cost:100,
+        deposit:100,
+        pending:50
+    },
+    {
+        _id : 'C002',
+        date_of_joining :'2018-08-02T06:52:25.310Z',
+        first_name : 'Justin',
+        last_name:'Lang',
+        location:'Dubai',
+        payment_type:'Cash',
+        payment_received_status:'No',
+        total_cost:500,
+        deposit:200,
+        pending:150
+    },
+    {
+        _id : 'C003',
+        date_of_joining :'2018-08-02T06:52:25.310Z',
+        first_name : 'Max',
+        last_name:'Teen',
+        location:'Chiana',
+        payment_type:'Cash',
+        payment_received_status:'Yes',
+        total_cost:600,
+        deposit:100,
+        pending:80
+    },
+    {
+        _id : 'C001',
+        date_of_joining :'2018-08-02T06:52:25.310Z',
+        first_name : 'Waylon',
+        last_name:'Dalton',
+        location:'USA',
+        payment_type:'Card',
+        payment_received_status:'Yes',
+        total_cost:100,
+        deposit:100,
+        pending:50
+    },
+    {
+        _id : 'C002',
+        date_of_joining :'2018-08-02T06:52:25.310Z',
+        first_name : 'Justin',
+        last_name:'Lang',
+        location:'Dubai',
+        payment_type:'Cash',
+        payment_received_status:'No',
+        total_cost:500,
+        deposit:200,
+        pending:150
+    },
+    {
+        _id : 'C003',
+        date_of_joining :'2018-08-02T06:52:25.310Z',
+        first_name : 'Max',
+        last_name:'Teen',
+        location:'Chiana',
+        payment_type:'Cash',
+        payment_received_status:'Yes',
+        total_cost:600,
+        deposit:100,
+        pending:80
+    }
+];

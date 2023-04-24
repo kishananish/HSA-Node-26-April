@@ -1,0 +1,30 @@
+export const START_LINK = '/';
+export const LOGIN_LINK = '/login';
+export const FORGOT_PASSWORD_LINK = '/forgot-password';
+export const UPDATE_PASSWORD_LINK = '/update-password';
+
+export const DASHBOARD_LINK = '/dashboard';
+export const CUSTOMER_ADD_LINK  = '/customer-add';
+export const CUSTOMER_MANAGE_LINK = '/customer-manage';
+export const FAQ_MANAGE_LINK = '/faq-manage';
+export const CATEGORY_MANAGE_LINK = '/category-manage';
+export const SUBCATEGORY_MANAGE_LINK = '/sub-category-manage';
+export const PROMOCODE_MANAGE_LINK = '/promo-code-manage';
+export const QUERY_MANAGE_LINK = '/query-manage';
+export const NOTIFICATION_MANAGE_LINK = '/notifications';
+export const ROLE_MANAGE_LINK = '/role-manage';
+export const ROLE_VIEW_LINK = '/role-view';
+export const ROLE_ADD_LINK = '/role-add';
+export const SERVICE_REQUEST_MANAGE_LINK = '/service-request-manage';
+export const SERVICE_REQUEST_ADD_LINK = '/service-request-edit';
+export const SERVICE_PROVIDER_MANAGE_LINK = '/service-provider-manage';
+export const SERVICE_PROVIDER_ADD_LINK = '/service-provider-add';
+export const MATERIAL_MANAGE_LINK = '/material-manage';
+export const CONFIGURATION_MANAGE_LINK = '/configuration-manage';
+
+export const REPORT_ACTIVE_TIME_LINK = '/report-active-time';
+export const REPORT_EARNING_LINK = '/report-earning';
+export const REPORT_EARING_SERVICE_LINK = '/report-earning-service';
+export const REPORT_RATING_LINK = '/report-rating';
+export const REPORT_RESPONSE_TIME_LINK = '/report-response-time';
+export const REPORT_SERVICE_REQUEST_LINK = '/report-service-request';

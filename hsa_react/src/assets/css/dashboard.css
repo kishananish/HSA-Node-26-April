@@ -1,0 +1,95 @@
+/* Dashboard CSS
+   It include Dashboard css only
+*/
+
+sup{
+    vertical-align: super !important;
+}
+
+.dashboard-box {
+    background-color: #EDF2F5;
+}
+
+.summary-block {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 6px 6px 17px #eee;
+}
+
+.border-top {
+    border-top: 4px solid;
+}
+
+.border-top-block1 {
+    border-top: 4px solid #f1ae22;
+}
+
+.border-top-block2 {
+    border-top: 4px solid #39beb9;
+}
+
+.border-top-block3 {
+    border-top: 4px solid #f47621;
+}
+
+.border-top-block4 {
+    border-top: 4px solid #5b64af;
+}
+
+.border-top-block5 {
+    border-top: 4px solid #3292e0;
+}
+
+.border-top-block6 {
+    border-top: 4px solid #53ba7f;
+}
+
+.border-top-block7 {
+    border-top: 4px solid #b869bf;
+}
+
+.border-top-block8 {
+    border-top: 4px solid #e7709a;
+}
+
+.summary-count {
+    font-size: 30px;
+    font-family: 'Lato-Bold';
+}
+
+.summary-count sup {
+    font-family: 'Lato-Regular';
+    top: -8px;
+    font-size: 14px;
+}
+
+.summary-title {
+    font-size: 14px;
+    color: #777777;
+}
+
+.chart-box {
+    text-align: left;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    -webkit-box-shadow: 6px 6px 17px #eee;
+    box-shadow: 6px 6px 17px #eee;
+    margin-bottom: 10px;
+}
+
+.chart-title {
+    font-size: 16px;
+    font-family: 'Lato-Bold';
+}
+
+.chart-total-count
+{
+    font-size: 13px;
+    font-family: 'Lato-Bold';
+    color: #777777;
+    font-weight: normal;
+}

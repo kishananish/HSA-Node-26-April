@@ -1,0 +1,38 @@
+{
+  "name": "react-progress-steps",
+  "version": "0.0.8",
+  "description": "react component",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quentin-/react-progress-steps.git"
+  },
+  "homepage": "",
+  "bugs": "/issues",
+  "directories": {
+    "example": "examples"
+  },
+  "author": {
+    "name": "Quentin Cuvillier",
+    "email": "cuvillier.quentin@gmail.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "0.14.7"
+  },
+  "tags": [
+    "react",
+    "react-component",
+    "react progress bar",
+    "react progress steps"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "react progress bar",
+    "react progress steps"
+  ],
+  "dependencies": {
+    "classnames": "^2.2.3"
+  }
+}

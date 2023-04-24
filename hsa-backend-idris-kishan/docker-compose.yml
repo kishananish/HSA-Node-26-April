@@ -1,0 +1,31 @@
+version: '2.0'
+
+services:
+
+  hsa_backend:
+    image: hsa_backend
+    build: 
+        context: ./
+        dockerfile: Dockerfile
+    command: npm run start
+    env_file: .env
+    volumes:
+      - .:/usr/app
+      - node_modules:/usr/app/node_modules
+    ports:
+      - 3001:3000
+    depends_on:
+      - mongo
+    environment:
+      DATABASE_URL: mongodb://jitendra:jitendra_123@ds223063.mlab.com:23063/hsanew  
+    
+  mongo:
+    image: mongo
+    environment:
+      MONGO_USER: user
+      MONGOS_DB: hsanew
+    expose:
+      - 27017
+    volumes:
+      - ./data/db:/data/db
+    

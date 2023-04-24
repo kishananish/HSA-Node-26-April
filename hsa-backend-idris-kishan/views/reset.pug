@@ -1,0 +1,23 @@
+doctype html
+html
+  head
+    title= `${title}`
+    link(rel='stylesheet', href='/dist/style.css')
+    link(rel="shortcut icon" type="image/png" href="/images/icons/doughnut.png")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+  body
+    block header
+      header.top
+        nav.nav
+    block content
+      .inner
+        if showForm
+          form.form(action=`/api/admin/update/${resetPasswordToken}` method="POST")
+            h2 Reset Your Password5555555555555555
+            label(for="password") Password
+            input(type="password" name="password")
+            label(for="password-confirm") Confirm Password
+            input(type="password" name="password-confirm")
+            input(type="submit" value="Reset Password →")
+        else 
+          h2 Password reset link expired

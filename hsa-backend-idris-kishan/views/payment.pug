@@ -1,0 +1,26 @@
+doctype html
+html
+  head
+    title= `${title}`
+    link(rel='stylesheet', href='/dist/style.css')
+    link(rel="shortcut icon" type="image/png" href="/images/icons/doughnut.png")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+  body
+    block header
+      header.top
+        nav.nav
+    block content
+      .inner
+        if showForm
+          form.form(action=`https://sbcheckout.payfort.com/FortAPI/paymentPage` method="POST")
+            h2 Test Your payfort payment
+           
+             each key,val in arrData
+
+              input(type="text" name=val value=key)
+            
+
+
+            input(type="submit" value="Pay Now →")
+        else 
+          h2 Password reset link expired

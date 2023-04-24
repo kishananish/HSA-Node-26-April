@@ -1,0 +1,199 @@
+/* Login css
+   It include all Admin related CSS - Login , forgot password and change Password
+*/
+
+body {
+    height: 100%;
+}
+
+.orange-bg {
+    height: 100vh;
+    display: inline-block;
+    width: 100%;
+    background: #F47D5D;
+    display: flex;
+}
+
+.login-box {
+    width: 845px;
+    margin: auto;
+}
+
+.login-logo {
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+
+.login-intro-header {
+    color: #ffffff;
+    font-size: 48px;
+    line-height: 48px;
+    font-family: 'Lato-Light';
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.login-intro-content {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'Lato-Light';
+    line-height: 24px;
+    margin-bottom: 120x;
+    font-size: 14px;
+}
+
+.login-form-content {
+    background-color: #ffffff;
+    padding: 30px 50px;
+}
+
+.login-form-content:after {
+    width: 0;
+    height: 0;
+    content: "";
+    right: -63px;
+    position: absolute;
+    top: -18px;
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 80px solid #F47D5D;
+    transform: rotate(45deg);
+}
+
+.lock-image {
+    background-image: url("../img/lock.png");
+    width: 47px;
+    height: 57px;
+}
+
+.header-text {
+    color: #f47621;
+    margin-top: 30px;
+    margin-bottom: 0;
+    font-family: 'Lato-Light';
+}
+
+.login-content {
+    font-size: 30px;
+}
+
+.body-text {
+    color: #333333;
+    font-family: 'Lato-Light';
+    margin-top: 7px;
+    margin-bottom: 30px;
+}
+
+#login-form input {
+    width: 100%;
+    border-top: 1px solid #d5dce0;
+    border-bottom: 1px solid #d5dce0;
+    border-right: 0;
+    border-left: 0;
+    box-shadow: none;
+    height: 50px;
+    color: #333333;
+    font-size: 16px;
+}
+
+#login-form input:focus {
+    box-shadow: none;
+    outline: none;
+    border-top: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+}
+
+#login-form input[id=password] {
+    border-top: 0px;
+}
+
+#login-form input:-ms-input-placeholder {
+    color: #848f99;
+}
+
+#login-form input::-moz-placeholder {
+    color: #848f99;
+}
+
+C input::-webkit-input-placeholder {
+    color: #848f99;
+}
+
+#login-form .form-group {
+    margin-bottom: 0px;
+}
+
+#login-form .button-block {
+    margin-top: 30px;
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#login-form .button-block button {
+    background: #27ae60;
+    color: #fff;
+    border: 0;
+    width: 100%;
+    border-radius: 5px;
+    height: 45px;
+    font-size: 18px;
+    font-family: 'Lato-Bold';
+    transition: all 0.5s ease 0s;
+}
+
+#login-form .button-block button:hover {
+    background: #000000;
+    color: #fff;
+}
+
+.login-button {
+    background: #27ae60;
+    color: #fff;
+    border: 0;
+    width: 100%;
+    border-radius: 5px;
+    height: 45px;
+    font-size: 18px;
+    font-family: 'Lato-Bold';
+}
+
+.forgot-password-text {
+    color: #848f99;
+    text-align: center;
+    transition: all 0.5s ease 0s;
+    font-size: 14px;
+}
+
+.forgot-password-text:hover {
+    color: #000000;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .login-box {
+        width: auto;
+    }
+
+    .login-sub-block {
+        padding-left: 30px;
+    }
+}
+
+#login-form .form-group:focus-within {
+    border: 0px;
+    outline: none;
+}
+
+.error-message {
+    font-family: 'Lato-Light';
+    font-size: 14px;
+    color: #ff0000;
+}
+
+/* Forgot Password */
+.forgot-password-text {
+    color: #f47621;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-family: 'Lato-Light';
+}
+

@@ -1,0 +1,1169 @@
+[{
+  "_id": "XS3emdEWw",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "H18-1",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1579035600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1579381200000"
+    }
+  },
+  "category_id": "bqPvpMizp",
+  "percentage": "10",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1579326416515"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1579327526915"
+    }
+  }
+},{
+  "_id": "ZvcUVmh6M",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "H18-2",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1579458600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1579545000000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "10",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1579509268648"
+    }
+  }
+},{
+  "_id": "qKyVp@aMI",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HONEY20",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1566458380898"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1571728780898"
+    }
+  },
+  "category_id": "vxzsoNVor",
+  "percentage": "25",
+  "amount": "120",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580119800977"
+    }
+  }
+},{
+  "_id": "WeWEAge34",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HONEY30",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1566458380898"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1571728780898"
+    }
+  },
+  "category_id": "vxzsoNVor",
+  "amount": "120",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580120049128"
+    }
+  }
+},{
+  "_id": "QmcAVYr0s",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA112",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580063400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580409000000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "55",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580120420127"
+    }
+  }
+},{
+  "_id": "8XIWL3fUNV",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA112",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580063400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580409000000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "55",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580120420186"
+    }
+  }
+},{
+  "_id": "As871EurV",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-18",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "1WGKzls@z",
+  "percentage": "50",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580275584647"
+    }
+  }
+},{
+  "_id": "9gitkzLhM",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA1",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "",
+  "amount": "50",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580276363520"
+    }
+  }
+},{
+  "_id": "Rh@qUurbp",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-13",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "40",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580285868335"
+    }
+  }
+},{
+  "_id": "jPFaH3flr",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-12",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "30",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580286546151"
+    }
+  }
+},{
+  "_id": "OEgTjP9Lh",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-11",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "15",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580287180048"
+    }
+  }
+},{
+  "_id": "0EcErzYrT",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-10",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "10",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580288613566"
+    }
+  }
+},{
+  "_id": "jdqPZRmDR",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-09",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "15",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580288899757"
+    }
+  }
+},{
+  "_id": "SUOuhAGWH",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA08",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "50",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580291436165"
+    }
+  }
+},{
+  "_id": "sfrqEKA8o",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-07",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "35",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580292648505"
+    }
+  }
+},{
+  "_id": "G$v7gUOhv",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA_04",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "25",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580297898997"
+    }
+  }
+},{
+  "_id": "XBXlUTcHR",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-05",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "24",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580297919838"
+    }
+  }
+},{
+  "_id": "YDLZKmNWK",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-03",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "11",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580298432373"
+    }
+  }
+},{
+  "_id": "ufFdLMuOq",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-21",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "21",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580300295599"
+    }
+  }
+},{
+  "_id": "sFxDhEJx3",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-22",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580236200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "",
+  "amount": "200",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580300319724"
+    }
+  }
+},{
+  "_id": "KTfUgD$mf",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA-14",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1580322600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1580409000000"
+    }
+  },
+  "category_id": "RWp438fi3",
+  "percentage": "20",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1580377162461"
+    }
+  }
+},{
+  "_id": "ZybxQFtqU",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "100",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583001000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585593000000"
+    }
+  },
+  "category_id": "bqPvpMizp",
+  "percentage": "10",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1583754460688"
+    }
+  }
+},{
+  "_id": "PR0KIHHni",
+  "promo_type": "amount",
+  "is_removed": true,
+  "code": "50",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583087400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585506600000"
+    }
+  },
+  "category_id": "ZlON$lE2y",
+  "percentage": "10",
+  "amount": "50",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1583754488312"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1583754772054"
+    }
+  }
+},{
+  "_id": "2wUI6LRL5",
+  "promo_type": "amount",
+  "is_removed": true,
+  "code": "510",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583001000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1584383400000"
+    }
+  },
+  "category_id": "ZlON$lE2y",
+  "percentage": "10",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1583754569482"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1583755162266"
+    }
+  }
+},{
+  "_id": "5wYkxw6Es",
+  "promo_type": "amount",
+  "is_removed": true,
+  "code": "5",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583001000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585593000000"
+    }
+  },
+  "category_id": "ZlON$lE2y",
+  "percentage": "10",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1583754788930"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1583755171874"
+    }
+  }
+},{
+  "_id": "B6EtC@qWn",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "500",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1579977000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585506600000"
+    }
+  },
+  "category_id": "1WGKzls@z",
+  "percentage": "15",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1583754815916"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1583755060360"
+    }
+  }
+},{
+  "_id": "fJCthTqBq",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "11",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583001000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1584210600000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "10",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1583755085706"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1583755103578"
+    }
+  }
+},{
+  "_id": "EyRq8f5nx",
+  "promo_type": "amount",
+  "is_removed": true,
+  "code": "55",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583260200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585506600000"
+    }
+  },
+  "category_id": "vxzsoNVor",
+  "percentage": "11",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1583899736887"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1583899774429"
+    }
+  }
+},{
+  "_id": "OSLdbNNca",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "10",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583001000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585506600000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "10",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1584013302837"
+    }
+  }
+},{
+  "_id": "iRkvSi8Ak",
+  "promo_type": "amount",
+  "is_removed": true,
+  "code": "50",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583001000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585506600000"
+    }
+  },
+  "category_id": "vxzsoNVor",
+  "percentage": "10",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1584076373550"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1584441414012"
+    }
+  }
+},{
+  "_id": "ilFWP4Eh5",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "20",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583001000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585506600000"
+    }
+  },
+  "category_id": "bqPvpMizp",
+  "percentage": "10",
+  "amount": "10",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1584097555874"
+    }
+  }
+},{
+  "_id": "52lrLUU@n",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "001",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583001000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585593000000"
+    }
+  },
+  "category_id": "MjEIb2Qv6",
+  "percentage": "10",
+  "amount": "20",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1584100594418"
+    }
+  }
+},{
+  "_id": "axXyrkinB",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "55",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1583001000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585506600000"
+    }
+  },
+  "category_id": "vxzsoNVor",
+  "percentage": "10",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1584333027371"
+    }
+  }
+},{
+  "_id": "fcpyKLn9N",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "112233",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1585161000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1585765800000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "10",
+  "amount": "12",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1585304422696"
+    }
+  }
+},{
+  "_id": "wTZNdKzip",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA001",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1585679400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1586457000000"
+    }
+  },
+  "category_id": "MtR5z9XbR",
+  "percentage": "50",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1586433205156"
+    }
+  }
+},{
+  "_id": "aNAuabqI8u",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "HSA001",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1585679400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1586457000000"
+    }
+  },
+  "category_id": "MtR5z9XbR",
+  "percentage": "50",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1586433205194"
+    }
+  }
+},{
+  "_id": "FRlME90iX",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "00123",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1586457000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1586543400000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "50",
+  "amount": "500",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1586517502538"
+    }
+  }
+},{
+  "_id": "nBNIUpppX",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "143",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1586811600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1586898000000"
+    }
+  },
+  "category_id": "T0xjjB4JK",
+  "percentage": "20",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1586850081140"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1586850350421"
+    }
+  }
+},{
+  "_id": "XbhSg5AuE",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "PRATHAM",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1588271400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1590863400000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "100",
+  "amount": "213123",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1588686492181"
+    }
+  }
+},{
+  "_id": "yNZy79mfa",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "45678",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1589221800000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1590517800000"
+    }
+  },
+  "category_id": "T0xjjB4JK",
+  "percentage": "",
+  "amount": "120",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1589306039130"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1589585021459"
+    }
+  }
+},{
+  "_id": "rEfyZQKIP",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "4794",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1588271400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1590690600000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "50",
+  "amount": "10",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1589798102739"
+    }
+  }
+},{
+  "_id": "EV1aE3Q3n",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "667799",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1589826600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1590604200000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1589905634912"
+    }
+  }
+},{
+  "_id": "2ZB$uiHLG",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "909090",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1589913000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1590085800000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "",
+  "amount": "112",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1589984651002"
+    }
+  }
+},{
+  "_id": "qh4Rcq6Sj",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "121212",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1589999400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1590863400000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "",
+  "amount": "100",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1590045229917"
+    }
+  }
+},{
+  "_id": "YLKZAQt@x0",
+  "promo_type": "amount",
+  "is_removed": false,
+  "code": "H1",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1588280400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1591736400000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "10",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1590828381145"
+    }
+  }
+},{
+  "_id": "nZabg1Zm0q",
+  "promo_type": "amount",
+  "is_removed": true,
+  "code": "TEST",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1599512400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1600290000000"
+    }
+  },
+  "category_id": "MtR5z9XbR",
+  "percentage": "1",
+  "amount": "",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1600235848710"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1600236023610"
+    }
+  }
+},{
+  "_id": "Hez95KgSXr",
+  "promo_type": "amount",
+  "is_removed": true,
+  "code": "TEST1",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1599598800000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1600290000000"
+    }
+  },
+  "category_id": "SJdkDafOuQ",
+  "percentage": "",
+  "amount": "1",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1600235892925"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1600235904749"
+    }
+  }
+},{
+  "_id": "zdc0iWPcWp",
+  "promo_type": "amount",
+  "is_removed": true,
+  "code": "TEST1",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1598994000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1600290000000"
+    }
+  },
+  "category_id": "CiOMpWljd",
+  "percentage": "",
+  "amount": "1",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1600236016903"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1600236023610"
+    }
+  }
+}]

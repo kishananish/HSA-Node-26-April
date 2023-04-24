@@ -1,0 +1,17 @@
+doctype html
+html
+  head
+    title= `${title}`
+    link(rel='stylesheet', href='/dist/style.css')
+    link(rel="shortcut icon" type="image/png" href="/images/icons/doughnut.png")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+  body
+    block header
+      header.top
+        nav.nav
+    block content
+      .inner
+        if showForm
+          h2 💃 Nice! Your password has been reset!
+        else 
+          h2 Password reset is invalid or has expired!

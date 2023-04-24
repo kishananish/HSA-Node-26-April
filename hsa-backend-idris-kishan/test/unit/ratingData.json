@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "user_id": "6xThFY6dVm",
+            "service_id": "uNbBEPmoSY",
+            "date_of_joining": "2018-10-19T09:40:19.466Z",
+            "first_name": "Ashwini",
+            "last_name": "Dawlekar",
+            "category_name": "Software Development",
+            "service_date": "2018-10-24T11:49:36.008Z",
+            "rating": 4,
+            "user_type": "Service Provider"
+        },
+        {
+            "user_id": "wgW8aNZHbo",
+            "service_id": "uNbBEPmoSY",
+            "date_of_joining": "2018-10-16T04:47:54.688Z",
+            "first_name": "Vishal",
+            "last_name": "Raut",
+            "category_name": "Software Development",
+            "service_date": "2018-10-24T11:49:36.008Z",
+            "rating": 2,
+            "user_type": "Customer"
+        }
+    ]
+}

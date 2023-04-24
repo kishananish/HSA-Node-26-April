@@ -1,0 +1,6 @@
+<form action='<%= redirectUrl %>' method='post' name='frm'>
+  <% for (let x in payfort_array) {%>
+    <input type="text" name="<%= x%>" value="<%= payfort_array[x]%>">
+  <% } %>
+   <input type="submit" value="Submit">
+</form>
